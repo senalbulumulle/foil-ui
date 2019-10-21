@@ -1,5 +1,5 @@
 /*
-FOIL UI  
+FOIL UI
 Version: 0.0
 */
 
@@ -26,7 +26,7 @@ Version: 0.0
 ***********************************************/
 @keyframes ui-animate-layout{
     from {
-        
+
     }
     to {
 
@@ -35,8 +35,117 @@ Version: 0.0
 
 
 
+
+
 /******************************************************
+                    
+                      Buttons
+                      
+                 
+*******************************************************/  
+
+.button{
+  padding:10px 32px;
+
+}
+
+
+/**************************************************************************
+               Subclasses for Buttons
+  Includes: Disables text-decoration and borders 
+  Includes Font Sizing for Buttons
+  Includes Shapes for Buttons
+  Includes Basic Button colors
+  Includes Theme/Nature Inspired Color Schemes for Buttons
 
 
 
-*******************************************************/
+
+/*************************************************************************/
+
+
+
+/*****************************************************
+ Disables text-decoration and borders on the buttons
+******************************************************/
+
+.button.disable-border{
+    text-decoration:none;
+    border:none;
+}
+
+
+/************************************************
+                   Button Shapes 
+************************************************/
+
+
+.button.round-square{
+  padding:10px 32px;
+  border-radius:5px;
+}
+
+
+
+
+/**************************************************
+               Basic Button Colors
+**************************************************/
+
+
+
+.button.color-green{background-color:green; color:white;}
+.button.color-blue{background-color:blue; color:white;}
+.button.color-gray{background-color:gray; color:white;}
+.button.color-black{background-color:black;color:white;}
+.button.color-red{background-color:red;color:white;}
+
+
+
+
+
+
+
+/**********************************************************************************************         
+|                                                                                              |
+|                    Sunset Inspired Color Schemes for Buttons Subclasses                      |
+|                                                                                              |
+***********************************************************************************************
+                                                                        
+
+
+/**********************************************************
+|   Sunset Inspired  Shade Colors Schemes for Buttons     |
+***********************************************************/
+
+.button.sunset-theme-shade-color-1{background-color: #030000; color:white;}
+.button.sunset-theme-shade-color-2{background-color:#160200; color:white;}
+.button.sunset-theme-shade-color-3{background-color:#290300;color:white;}
+.button.sunset-theme-shade-color-4{background-color:#3d0400;color:white;}
+.button.sunset-theme-shade-color-5{background-color: #500600;color:white;}
+.button.sunset-theme-shade-color-6{background-color:#640700;color:white;}
+.button.sunset-theme-shade-color-7{background-color:#770900;color:white;}
+.button.sunset-theme-shade-color-8{background-color:#8b0a00;color:white;}
+.button.sunset-theme-shade-color-9{background-color:#9f0c00;color:white;}
+.button.sunset-theme-shade-color-10{background-color:#b20d00; color:white;}
+.button.sunset-theme-shade-color-11{background-color:#c60e00;color:white;}
+.button.sunset-theme-shade-color-12{background-color:#da1000;color:white;}
+.button.sunset-theme-shade-color-13{background-color:#ed1100;color:white;}
+
+/**********************************************************
+|   Sunset Inspired  Tint Colors Schemes for Buttons      |
+***********************************************************/
+.button.sunset-theme-tint-color-1{background-color:#ff1402; color :white;}
+.button.sunset-theme-tint-color-2{background-color:#ff2615;color:white;}
+.button.sunset-theme-tint-color-3{background-color:#ff3929;color:white;}
+.button.sunset-theme-tint-color-4{background-color:#ff4b3d;color:white;}
+.button.sunset-theme-tint-color-5{background-color:#ff5d50;color:white;}
+.button.sunset-theme-tint-color-6{background-color:#ff6f64;color:white;}
+.button.sunset-theme-tint-color-7{background-color:#ff8177;color:black;}
+.button.sunset-theme-tint-color-8{background-color:#ff948b;color:black;}
+.button.sunset-theme-tint-color-9{background-color:#ffa69f;color:black;}
+.button.sunset-theme-tint-color-10{background-color:#ffb8b2;color:black;}
+.button.sunset-theme-tint-color-11{background-color:#ffcac6;color:black;}
+.button.sunset-theme-tint-color-12{background-color:#ffdcda;color:black;}
+.button.sunset-theme-tint-color-13{background-color:#ffeeed;color:black;}
+
