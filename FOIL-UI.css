@@ -92,7 +92,7 @@ Version: 0.0
   * Includes Shapes for Buttons
   * Includes Basic Button colors
   * Includes Theme/Nature Inspired Color Schemes for Buttons
-  
+
  */
 
 /*****************************************************
@@ -103,6 +103,34 @@ Version: 0.0
     text-decoration:none;
     border:none;
 }
+
+
+/*****************************************************
+                 Button Font Sizing
+******************************************************/
+.button.font-size-10{font-size:10px;}
+.button.font-size-20 {font-size:20px;}
+.button.font-size-30 {font-size:30px;}
+.button.font-size-40 {font-size:40px;}
+.button.font-size-50 {font-size:50px;}
+.button.font-size-60 {font-size:60px;}
+.button.font-size-70 {font-size:70px;}
+.button.font-size-80 {font-size:80px;}
+.button.font-size-90 {font-size:90px;}
+.button.font-size-100 {font-size:100px;}
+.button.font-size-200 {font-size:200px;}
+.button.font-size-300 {font-size:300px;}
+.button.font-size-400 {font-size:400px;}
+.button.font-size-500 {font-size:500px}
+.button.font-size-600 {font-size:600px;}
+.button.font-size-700 {font-size:700px;}
+.button.font-size-800 {font-size:800px;}
+.button.font-size-900 {font-size:900px;}
+.button.font-size-1000 {font-size:1000px;}
+
+
+
+
 
 
 /************************************************
