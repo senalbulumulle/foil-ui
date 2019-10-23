@@ -4,11 +4,7 @@ Version: 0.0
 */
 
 
-/**************************************************
 
-            Animations
-
-**************************************************/
 /***********************************************
             Animations Buttons
 ************************************************/
@@ -35,35 +31,10 @@ Version: 0.0
 
 
 
-
-
-/******************************************************
-                    
-                      Buttons
-                      
-                 
-*******************************************************/  
-
 .button{
   padding:10px 32px;
 
 }
-
-
-/**************************************************************************
-               Subclasses for Buttons
-  Includes: Disables text-decoration and borders 
-  Includes Font Sizing for Buttons
-  Includes Shapes for Buttons
-  Includes Basic Button colors
-  Includes Theme/Nature Inspired Color Schemes for Buttons
-
-
-
-
-/*************************************************************************/
-
-
 
 /*****************************************************
  Disables text-decoration and borders on the buttons
@@ -102,22 +73,13 @@ Version: 0.0
 
 
 
-
-
-
-
-/**********************************************************************************************         
-|                                                                                              |
-|                    Sunset Inspired Color Schemes for Buttons Subclasses                      |
-|                                                                                              |
-***********************************************************************************************
+/*******************************************************************************      
+                     Sunset Inspired Color Schemes for Buttons Subclasses                                                                                          |
+********************************************************************************
                                                                         
-
-
 /**********************************************************
 |   Sunset Inspired  Shade Colors Schemes for Buttons     |
 ***********************************************************/
-
 .button.sunset-theme-shade-color-1{background-color: #030000; color:white;}
 .button.sunset-theme-shade-color-2{background-color:#160200; color:white;}
 .button.sunset-theme-shade-color-3{background-color:#290300;color:white;}
@@ -133,7 +95,7 @@ Version: 0.0
 .button.sunset-theme-shade-color-13{background-color:#ed1100;color:white;}
 
 /**********************************************************
-|   Sunset Inspired  Tint Colors Schemes for Buttons      |
+     Sunset Inspired  Tint Colors Schemes for Buttons       
 ***********************************************************/
 .button.sunset-theme-tint-color-1{background-color:#ff1402; color :white;}
 .button.sunset-theme-tint-color-2{background-color:#ff2615;color:white;}
