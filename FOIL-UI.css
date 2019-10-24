@@ -198,3 +198,116 @@ Version: 0.0
 .button.sunset-theme-tint-color-12{background-color:#ffdcda;color:black;}
 .button.sunset-theme-tint-color-13{background-color:#ffeeed;color:black;}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+ _                            _       
+| |    __ _ _   _  ___  _   _| |_ ___ 
+| |   / _` | | | |/ _ \| | | | __/ __|
+| |__| (_| | |_| | (_) | |_| | |_\__ \
+|_____\__,_|\__, |\___/ \__,_|\__|___/
+            |___/                     
+*/
+
+.layout{
+  padding:10em 1em;
+  position:relative;
+}
+
+/*
+
+  ____          _        ____  _                             
+ / ___|  _   _ | |__    / ___|| |  __ _  ___  ___   ___  ___ 
+ \___ \ | | | || '_ \  | |    | | / _` |/ __|/ __| / _ \/ __|
+  ___) || |_| || |_) | | |___ | || (_| |\__ \\__ \|  __/\__ \
+ |____/  \__,_||_.__/   \____||_| \__,_||___/|___/ \___||___/
+                                            For the Layouts
+
+   Subclasses for The Layouts
+
+  * Includes: Disables text-decoration and borders 
+  * Includes Basic Layout colors
+  * Includes Theme/Nature Inspired Color Schemes for Layouts
+ */
+
+
+/*****************************************************
+ Disables text-decoration and borders on the Layouts
+******************************************************/
+
+.layout.disable-border{
+  text-decoration:none;
+  border:none;
+}
+
+
+
+/**************************************************
+               Basic Layout Colors
+**************************************************/
+
+.layout.color-green{background-color:green; color:white;}
+.layout.color-blue{background-color:blue; color:white;}
+.layout.color-gray{background-color:gray; color:white;}
+.layout.color-black{background-color:black; color:white;}
+.layout.color-red{background-color:red; color:white;}
+
+
+
+/*******************************************************************************      
+                     Sunset Inspired Color Schemes for Layouts Subclasses                                                                                          |
+********************************************************************************
+                                                                        
+/**********************************************************
+    Sunset Inspired  Shade Colors Schemes for Layouts     
+***********************************************************/
+.layout.sunset-theme-shade-color-1{background-color: #030000; color:white;}
+.layout.sunset-theme-shade-color-2{background-color:#160200; color:white;}
+.layout.sunset-theme-shade-color-3{background-color:#290300;color:white;}
+.layout.sunset-theme-shade-color-4{background-color:#3d0400;color:white;}
+.layout.sunset-theme-shade-color-5{background-color: #500600;color:white;}
+.layout.sunset-theme-shade-color-6{background-color:#640700;color:white;}
+.layout.sunset-theme-shade-color-7{background-color:#770900;color:white;}
+.layout.sunset-theme-shade-color-8{background-color:#8b0a00;color:white;}
+.layout.sunset-theme-shade-color-9{background-color:#9f0c00;color:white;}
+.layout.sunset-theme-shade-color-10{background-color:#b20d00; color:white;}
+.layout.sunset-theme-shade-color-11{background-color:#c60e00;color:white;}
+.layout.sunset-theme-shade-color-12{background-color:#da1000;color:white;}
+.layout.sunset-theme-shade-color-13{background-color:#ed1100;color:white;}
+
+/**********************************************************
+     Sunset Inspired  Tint Colors Schemes for Layouts      
+***********************************************************/
+.layout.sunset-theme-tint-color-1{background-color:#ff1402; color :white;}
+.layout.sunset-theme-tint-color-2{background-color:#ff2615;color:white;}
+.layout.sunset-theme-tint-color-3{background-color:#ff3929;color:white;}
+.layout.sunset-theme-tint-color-4{background-color:#ff4b3d;color:white;}
+.layout.sunset-theme-tint-color-5{background-color:#ff5d50;color:white;}
+.layout.sunset-theme-tint-color-6{background-color:#ff6f64;color:white;}
+.layout.sunset-theme-tint-color-7{background-color:#ff8177;color:black;}
+.layout.sunset-theme-tint-color-8{background-color:#ff948b;color:black;}
+.layout.sunset-theme-tint-color-9{background-color:#ffa69f;color:black;}
+.layout.sunset-theme-tint-color-10{background-color:#ffb8b2;color:black;}
+.layout.sunset-theme-tint-color-11{background-color:#ffcac6;color:black;}
+.layout.sunset-theme-tint-color-12{background-color:#ffdcda;color:black;}
+.layout.sunset-theme-tint-color-13{background-color:#ffeeed;color:black;}
