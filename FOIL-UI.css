@@ -9,7 +9,18 @@ FOIL UI
 Version: 0.0
 ***********************************************/
 
+body {
+  /* Makes the interface fit the screen.*/
+  height: 100vh;
+  margin: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-perspective: 1px;
+  perspective: 1px;
 
+  font: normal 18px Helvetica,
+  sans-serif;
+}
 
 
 
