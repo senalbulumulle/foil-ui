@@ -9,6 +9,11 @@ FOIL UI
 Version: 0.0
 ***********************************************/
 
+
+
+
+
+
 body {
   /* Makes the interface fit the screen.*/
   height: 100vh;
@@ -113,24 +118,25 @@ fontcolorBLACK{color:black;}
 
 @keyframes ui-animate-button{
     from{
-
+      margin-top:100%;
     }
     to{
-
+      margin-top:0%;
     }
 }
 /***********************************************
             Animations Layouts
 ***********************************************/
-@keyframes ui-animate-layout{
-    from {
+@keyframes ui-animate-layout {
+  from {
+    margin-top: 100%;
+    width: 300%;
+  }
 
-    }
-    to {
-
-    }
+  to {
+    margin-top: 0%;
+  }
 }
-
 /*
   ____          _    _                     
  | __ )  _   _ | |_ | |_  ___   _ __   ___ 
@@ -144,6 +150,8 @@ fontcolorBLACK{color:black;}
 
 .button{
   padding:10px 32px;
+  animation-name: ui-animate-button;
+  animation-duration:4s;
 
 }
 
@@ -303,6 +311,8 @@ fontcolorBLACK{color:black;}
 .layout{
   padding:10em 1em;
   position:relative;
+ animation-duration: 2s;
+ animation-name: ui-animate-layout;
 }
 
 /*
