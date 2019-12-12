@@ -152,7 +152,7 @@ fontcolorBLACK{color:black;}
   padding:10px 32px;
   animation-name: ui-animate-button;
   animation-duration:4s;
-
+  
 }
 
 /*
@@ -347,11 +347,11 @@ fontcolorBLACK{color:black;}
                Basic Layout Colors
 **************************************************/
 
-.layout.color-green{background-color:green; color:white;}
-.layout.color-blue{background-color:blue; color:white;}
-.layout.color-gray{background-color:gray; color:white;}
+.layout.color-green{background-color:rgb(0, 100, 0); color:white;}
+.layout.color-blue{background-color:rgb(0, 43, 124); color:white;}
+.layout.color-gray{background-color:rgba(128, 128, 128, 0.596); color:white;}
 .layout.color-black{background-color:black; color:white;}
-.layout.color-red{background-color:red; color:white;}
+.layout.color-red{background-color:rgb(155, 0, 0); color:white;}
 .layout.color-yellow{background-color:rgb(228, 186, 0); color:black;}
 
 
