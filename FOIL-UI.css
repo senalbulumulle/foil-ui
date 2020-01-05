@@ -10,7 +10,10 @@ Version: 0.0
 ***********************************************/
 
 
-
+a{
+  padding: 1em;
+  margin:0;
+}
 
 
 
@@ -152,7 +155,7 @@ fontcolorBLACK{color:black;}
   padding:10px 32px;
   animation-name: ui-animate-button;
   animation-duration:4s;
-  
+  margin-right: 15px;
 }
 
 /*
