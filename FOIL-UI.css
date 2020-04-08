@@ -1,3 +1,31 @@
 /*****************************************************
         FOÏL UI.css 
+        Version 1.0-beta
 *******************************************************/
+
+/* Header DIV classes */
+.FOIL-Header-1{
+        font-size: 2em;
+        font-weight: bolder;
+}
+.FOIL-Header-2{
+        font-size: 1.5em;
+        font-weight: bolder;
+
+}
+.FOIL-Header-3{
+        font-size: 1.17em;
+        font-weight: bolder;
+}
+.FOIL-Header-4{
+        font-size: 1em;
+        font-weight: bolder;
+}
+.FOIL-Header-5{
+        font-size: .83em;
+        font-weight: bolder;
+}
+.FOIL-Header-6{
+        font-size: .67em;
+        font-weight: bolder;    
+}
