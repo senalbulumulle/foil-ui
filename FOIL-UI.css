@@ -1025,3 +1025,23 @@ FOIL-Font-Size-997{font-size:997px;}
 FOIL-Font-Size-998{font-size:998px;}
 FOIL-Font-Size-999{font-size:999px;}
 FOIL-Font-Size-1000{font-size:1000px;}
+
+/* Font Styles DIV classes */
+.FOIL-Font-Styles--Impact{
+        font-family:Impact;
+}
+.FOIL-Font-Styles--Georgia{
+        font-family:Georgia;
+}
+.FOIL_Font-Styles--Verdana{
+        font-family:Verdana;
+}
+.FOIL_Font-Styles--times{
+        font-family:times;
+}
+.FOIL-Font-Styles--sans-serif{
+        font-family:sans-serif;
+}
+.FOIL-Font-Styles--monospace{
+        font-family:monospace;
+}
