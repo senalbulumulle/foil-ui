@@ -4208,3 +4208,45 @@ FOIL-Font-Size-1000 {
   background-color: red;
   color: white;
 }
+
+/* Layouts */
+
+.FOIL-Layout {
+  background-color:transparent;
+  color:black;
+  padding: 10em 1em;
+  position: relative;
+  z-index: 2;
+}
+
+/* Layout Colors */
+
+.FOIL-Layout.color-is-red {
+  background-color: rgba(185, 0, 0, 0.931);
+  color: white;
+}
+
+.FOIL-Layout.color-is-black {
+  background-color: rgba(0, 0, 0, 0.931);
+  color: white;
+}
+
+.FOIL-Layout.color-is-yellow {
+  background-color: rgba(255, 217, 0, 0.931);
+  color: black;
+}
+
+.FOIL-Layout.color-is-green {
+  background-color: rgb(67, 91, 68);
+  color: white;
+}
+
+.FOIL-Layout.color-is-blue {
+  background-color: rgb(67, 69, 91);
+  color: white;
+}
+
+.FOIL-Layout.color-is-orange {
+  background-color: rgb(167, 72, 14);
+  color: white;
+}
