@@ -274,6 +274,38 @@ body {
   color: white;
 }
 
+/* Highlight */
+
+.FOIL-Highlight {
+  background-color:transparent;
+  color:transparent;
+}
+
+/* Highlight Colors */
+
+
+.FOIL-Highlight.color-is-red {
+  background-color: red;
+}
+
+.FOIL-Highlight.color-is-yellow {
+  background-color: yellow;
+}
+
+.FOIL-Highlight.color-is-green {
+  background-color: rgb(156, 223, 57);
+}
+
+/* Highlight Text Colors */
+
+
+.FOIL-Highlight.text-color-is-white {
+  color: white;
+}
+
+.FOIL-Highlight.text-color-is-black {
+  color: black;
+}
 
 /* Font Sizes: Directions: Use example: "<FOIL-Font-Size-2>" Font Size Range: 1px to 1000px */
 
