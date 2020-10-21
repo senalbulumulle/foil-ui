@@ -152,7 +152,7 @@ FOIL-button is a DIV class that displays buttons that can do anything with.
 <div class = "FOIL-button"></div>
 ````
 
-**Here's how you can get the different font styles**
+**Here's how you can get the colors of the buttons on FOIL UI.**
 
 #### Red Color on a Button
 ````html
