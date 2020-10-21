@@ -116,7 +116,7 @@ FOIL-Font-Styles is a DIV class that displays the different typefaces.
 <div class = "FOIL-button"></div>
 ````
 
-**Here's how you can get the colors on the Buttons in FOIL UI.**
+**Here's how you can get the font styles on FOIL UI.**
 
 #### FOIL-Font-Styles--Impact
 ````html
