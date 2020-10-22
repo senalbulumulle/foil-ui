@@ -156,11 +156,11 @@ FOIL-button is a DIV class that displays buttons that can do anything with.
 
 #### Red Color on a Button
 ````html
-<div class = "FOIL-button color-is-red>"></div>
+<div class = "FOIL-button color-is-red"></div>
 ````
 #### Black Color on a Button
 ````html
-<div class = "FOIL-button color-is-black>"></div>
+<div class = "FOIL-button color-is-black"></div>
 ````
 
 #### Yellow Color on a Button
