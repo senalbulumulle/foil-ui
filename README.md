@@ -34,6 +34,12 @@
       - [Yellow Color on a Small Button](#yellow-color-on-a-small-button)
       - [Green Color on a Small Button](#green-color-on-a-small-button)
       - [Blue color on a Small Button](#blue-color-on-a-small-button)
+    - [FOIL-Layout](#foil-layout)
+      - [Red Color on a layout](#red-color-on-a-layout)
+      - [Black Color on a layout](#black-color-on-a-layout)
+      - [Yellow Color on a layout](#yellow-color-on-a-layout)
+      - [Green Color on a layout](#green-color-on-a-layout)
+      - [Blue color on a layout](#blue-color-on-a-layout)
 
 
 ### Installation
@@ -217,4 +223,39 @@ FOIL-button-small is a DIV class that displays small buttons that can do anythin
 #### Blue color on a Small Button
 ````html
 <div class = "FOIL-button-small color-is-blue"></div>
+````
+
+### FOIL-Layout
+FOIL-Layout is a DIV class that displays small buttons that can do anything with.
+
+**To Get Started, call this div class:**
+
+````html
+<div class = "FOIL-Layout"></div>
+````
+
+**Here's how you can get the colors of the layouts on FOIL UI.**
+
+#### Red Color on a layout
+````html
+<div class = "FOIL-Layout color-is-red"></div>
+````
+#### Black Color on a layout
+````html
+<div class = "FOIL-Layout color-is-black"></div>
+````
+
+#### Yellow Color on a layout
+````html
+<div class = "FOIL-Layout color-is-yellow"></div>    
+````
+
+#### Green Color on a layout
+````html
+<div class = "FOIL-Layout color-is-green"></div>
+````
+
+#### Blue color on a layout
+````html
+<div class = "FOIL-Layout color-is-blue"></div>
 ````
