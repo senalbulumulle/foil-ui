@@ -23,11 +23,17 @@
       - [FOIL-Font-Styles--times](#foil-font-styles--times)
       - [FOIL-Font-Styles--sans-serif](#foil-font-styles--sans-serif)
     - [FOIL-button](#foil-button)
-      - [Red Color on Buttons](#red-color-on-navigation-bar)
-      - [Black Color on Buttons](#black-color-on-navigation-bar)
-      - [Yellow Color on Buttons](#yellow-color-on-navigation-bar)
-      - [Green Color on Buttons](#green-color-on-navigation-bar)
-      - [Blue color on Buttons](#blue-color-on-navigation-bar)
+      - [Red Color on a Button](#red-color-on-a-button)
+      - [Black Color on a Button](#black-color-on-a-button)
+      - [Yellow Color on a Button](#yellow-color-on-a-button)
+      - [Green Color on a Button](#green-color-on-a-button)
+      - [Blue color on a Button](#blue-color-on-a-button)
+    - [FOIL-button-small](#foil-button-small)
+      - [Red Color on a Small Button](#red-color-on-a-small-button)
+      - [Black Color on a Small Button](#black-color-on-a-small-button)
+      - [Yellow Color on a Small Button](#yellow-color-on-a-small-button)
+      - [Green Color on a Small Button](#green-color-on-a-small-button)
+      - [Blue color on a Small Button](#blue-color-on-a-small-button)
 
 
 ### Installation
@@ -176,4 +182,39 @@ FOIL-button is a DIV class that displays buttons that can do anything with.
 #### Blue color on a Button
 ````html
 <div class = "FOIL-button color-is-blue"></div>
+````
+
+### FOIL-button-small
+FOIL-button-small is a DIV class that displays small buttons that can do anything with.
+
+**To Get Started, call this div class:**
+
+````html
+<div class = "FOIL-button-small"></div>
+````
+
+**Here's how you can get the colors of the small buttons on FOIL UI.**
+
+#### Red Color on a Small Button
+````html
+<div class = "FOIL-button-small color-is-red"></div>
+````
+#### Black Color on a Small Button
+````html
+<div class = "FOIL-button-small color-is-black"></div>
+````
+
+#### Yellow Color on a Small Button
+````html
+<div class = "FOIL-button-small color-is-yellow"></div>    
+````
+
+#### Green Color on a Small Button
+````html
+<div class = "FOIL-button-small color-is-green"></div>
+````
+
+#### Blue color on a Small Button
+````html
+<div class = "FOIL-button-small color-is-blue"></div>
 ````
