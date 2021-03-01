@@ -226,7 +226,7 @@ FOIL-button-small is a DIV class that displays small buttons that can do anythin
 ````
 
 ### FOIL-Layout
-FOIL-Layout is a DIV class that displays small buttons that can do anything with.
+FOIL-Layout is a DIV class that displays layouts that can do anything with.
 
 **To Get Started, call this div class:**
 
