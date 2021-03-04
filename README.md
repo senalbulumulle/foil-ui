@@ -40,6 +40,11 @@
       - [Yellow Color on a layout](#yellow-color-on-a-layout)
       - [Green Color on a layout](#green-color-on-a-layout)
       - [Blue color on a layout](#blue-color-on-a-layout)
+      - [Orange color on a layout](#orange-color-on-a-layout)
+    - [FOIL-Highlight](#foil-highlight)
+      - [Red Color on a highlight](#red-color-on-a-highlight)
+      - [Yellow Color on a highlight](#yellow-color-on-a-highlight)
+      - [Green Color on a highlight](#green-color-on-a-highlight)
 
 
 ### Installation
@@ -258,4 +263,34 @@ FOIL-Layout is a DIV class that displays layouts that can do anything with.
 #### Blue color on a layout
 ````html
 <div class = "FOIL-Layout color-is-blue"></div>
+````
+
+#### Orange color on a layout 
+````html
+<div class = "FOIL-Layout color-is-orange"></div>
+````
+
+### FOIL-Highlight
+FOIL-Highlight is a DIV class that displays highlighted text that can do anything with.
+
+**To Get Started, call this div class:**
+
+````html
+<div class = "FOIL-Highlight"></div>
+````
+
+**Here's how you can get the colors of the layouts on FOIL UI.**
+
+#### Red Color on a highlight
+````html
+<div class = "FOIL-Highlight color-is-red"></div>
+````
+#### Yellow Color on a highlight
+````html
+<div class = "FOIL-Highlight color-is-yellow"></div>
+````
+
+#### Green Color on a highlight
+````html
+<div class = "FOIL-Highlight color-is-green"></div>    
 ````
