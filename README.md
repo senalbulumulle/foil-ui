@@ -271,7 +271,7 @@ FOIL-Layout is a DIV class that displays layouts that can do anything with.
 ````
 
 ### FOIL-Highlight
-FOIL-Highlight is a DIV class that displays highlighted text that can do anything with.
+FOIL-Highlight is a DIV class that displays a highlight color that can do anything with.
 
 **To Get Started, call this div class:**
 
@@ -279,7 +279,7 @@ FOIL-Highlight is a DIV class that displays highlighted text that can do anythin
 <div class = "FOIL-Highlight"></div>
 ````
 
-**Here's how you can get the colors of the layouts on FOIL UI.**
+**Here's how you can get the colors of the highlights on FOIL UI.**
 
 #### Red Color on a highlight
 ````html
