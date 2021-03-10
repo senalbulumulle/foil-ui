@@ -45,6 +45,10 @@
       - [Red Color on a highlight](#red-color-on-a-highlight)
       - [Yellow Color on a highlight](#yellow-color-on-a-highlight)
       - [Green Color on a highlight](#green-color-on-a-highlight)
+      - [White Text Color on a highlight](#white-text-color-on-a-highlight)
+      - [Black Text Color on a highlight](#black-text-color-on-a-highlight)
+      - [Example](#example)
+    - [FOIL-Font-Size](#foil-font-size)
 
 
 ### Installation
@@ -294,3 +298,43 @@ FOIL-Highlight is a DIV class that displays a highlight color that can do anythi
 ````html
 <div class = "FOIL-Highlight color-is-green"></div>    
 ````
+
+**Here's how you can get the text colors of the highlights on FOIL UI.**
+#### White Text Color on a highlight
+````html
+<div class = "FOIL-Highlight text-color-is-white"></div>
+````
+#### Black Text Color on a highlight
+````html
+<div class = "FOIL-Highlight text-color-is-black"></div>
+````
+**Note: After you call the <code>"FOIL-Highlight color-is-"</code> div class, call the <code> "FOIL-Highlight text-color-is"</code>  div class.**
+#### Example 
+````html
+<div class = "FOIL-Highlight color-is-orange">
+  <div class="FOIL-Hightlight text-color-is-black">
+    <FOIL-Font-Size-10>Hello world</FOIL-Font-Size-10>
+  </div>
+</div>
+````
+
+### FOIL-Font-Size
+FOIL-Font-Size is a unique feature that alters the ```<html>``` tags. This allows an ability to increase text size without using the div class or using regular tags like ```<h1> <h2> <h3> <h4> <h5> <h6> or <p> ```.
+<ul></ul>
+
+**Here is an Example using ```<FOIL-Font-Size>```:**
+
+```html
+<html>
+  <head>
+    <link rel="stylesheet" href="FOIL-UI.css" type="text/css">
+  </head>
+  <body>
+    <div class="FOIL-Font-Styles--sans-serif">
+      <div class="FOIL-Layout color-is-black">
+        <!-- Using the FOIL-Font-Size Feature -->
+        <FOIL-Font-Size-30> This is my web app </FOIL-Font-Size-30>
+      </div>
+    </div>
+  </body>
+</html>
