@@ -3,7 +3,7 @@
 **Release Notes for v.1.0.1.1.2** 
 
 * Create CHANGELOG.md
-
+* Update FOIL-UI.css Version 1.0.1.1.2 (Line 3)
 
 **Release Notes for v.1.0.1.1** 
 
