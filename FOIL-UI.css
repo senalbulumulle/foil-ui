@@ -112,6 +112,7 @@ body {
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: 0.2s;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 /*****************************************************
          Button Color Substitutes 
@@ -134,7 +135,7 @@ body {
 }
 .FOIL-button.color-is-blue {
   background-color: rgb(67, 69, 91);
-  color: white;
+  color: white;   
 }
 .FOIL-button.color-is-orange {
   background-color: rgb(167, 72, 14);
@@ -146,7 +147,7 @@ body {
   color: white;
 }
 .FOIL-button:active {
-  box-shadow: 0 12px 16px 0 rgb(255, 0, 0), 0 17px 50px 0 rgb(255, 0, 0);
+  box-shadow: 0 22px 36px 0 rgb(255, 0, 0), 0 17px 50px 0 rgb(255, 0, 0);
   background-color: red;
   color: white;
 }
@@ -165,6 +166,7 @@ body {
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: 0.2s;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 /*****************************************************
          Button Small Color Substitutes 

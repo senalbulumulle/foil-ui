@@ -1,5 +1,9 @@
 # Change Log 
 
+**Release Notes for v.2.0**
+* Redesigned the Buttons with a little touch of shadows.
+* I decided to make the buttons look the same, but, a little different, based on the little touches of shadows that provides a better accessible look for certain types disabilities that may or may not able to see what buttons to press or click.  Later throughout the  FOIL UI 2 releases,  I will add more amazing features for the buttons and everything else. 
+
 **Release Notes for v.1.0.1.1.2** 
 
 * Create CHANGELOG.md
