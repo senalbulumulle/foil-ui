@@ -1,10 +1,14 @@
 # Change Log 
 **Release Notes for v.2.0.1**
 * Added more button colors 
+* Updated the README Documentation
 ```
-<div class="FOIL-Button-color-is-pink></button>
-<div class="FOIL-Button-color-is-purple></button>
+<button class="FOIL-Button-color-is-pink></button>
+<button class="FOIL-Button-color-is-purple></button>
+<button class="FOIL-Button-small-color-is-pink></div>
+<button class="FOIL-Button-small-color-is-purple></div>
 ```
+
 
 
 **Release Notes for v.2.0**

@@ -221,6 +221,15 @@ FOIL-button is a DIV class that displays buttons that can do anything with.
 <div class = "FOIL-button color-is-blue"></div>
 ````
 
+# Orange color on a Button
+````html
+<div class = "FOIL-button-small color-is-orange"></div>
+````
+
+# Pink color on a Button
+````html
+<div class = "FOIL-button-small color-is-pink"></div>
+````
 
 
 
@@ -275,7 +284,15 @@ FOIL-button-small is a DIV class that displays small buttons that can do anythin
 <div class = "FOIL-button-small color-is-blue"></div>
 ````
 
+# Orange color on a Small Button
+````html
+<div class = "FOIL-button-small color-is-orange"></div>
+````
 
+# Pink color on a Small Button
+````html
+<div class = "FOIL-button-small color-is-pink"></div>
+````
 
 
 
