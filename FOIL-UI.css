@@ -1,6 +1,6 @@
 /*****************************************************
         FOÏL UI.css 
-        Version 2.0
+        Version 2.0.1
 *******************************************************/
 
 
@@ -141,6 +141,14 @@ body {
   background-color: rgb(167, 72, 14);
   color: white;
 }
+.FOIL-button.color-is-pink {
+  background-color: rgba(185, 0, 114, 0.931);
+  color: white;
+}
+.FOIL-button.color-is-purple {
+  background-color: rgba(126, 0, 185, 0.931);
+  color: white;
+}
 .FOIL-button:hover {
   box-shadow: 0 12px 16px 0 rgb(1, 208, 67), 0 17px 50px 0 rgb(1, 208, 67);
   background-color: rgb(1, 208, 67);
@@ -193,6 +201,14 @@ body {
 }
 .FOIL-button-small.color-is-orange {
   background-color: rgb(167, 72, 14);
+  color: white;
+}
+.FOIL-button-small.color-is-pink {
+  background-color: rgba(185, 0, 114, 0.931);
+  color: white;
+}
+.FOIL-button-small.color-is-purple {
+  background-color: rgba(126, 0, 185, 0.931);
   color: white;
 }
 .FOIL-button-small:hover {

@@ -1,4 +1,11 @@
 # Change Log 
+**Release Notes for v.2.0.1**
+* Added more button colors 
+```
+<div class="FOIL-Button-color-is-pink></button>
+<div class="FOIL-Button-color-is-purple></button>
+```
+
 
 **Release Notes for v.2.0**
 * Redesigned the Buttons with a little touch of shadows.
