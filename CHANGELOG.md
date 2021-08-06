@@ -1,4 +1,8 @@
-# Change Log 
+# Change Log
+**Release Notes for v.2.0.1.1**
+* Completely updated the README documentation
+
+ 
 **Release Notes for v.2.0.1**
 * Added more button colors 
 * Updated the README Documentation
