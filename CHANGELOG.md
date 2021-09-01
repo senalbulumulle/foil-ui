@@ -1,4 +1,9 @@
 # Change Log
+**Release Notes for v.2.0.2**
+* Updated the README.md documentation
+* This update talks about the new way using FOIL-UI, in a more efficient matter. 
+
+
 **Release Notes for v.2.0.1.1**
 * Completely updated the README documentation
 

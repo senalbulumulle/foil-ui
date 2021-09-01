@@ -2,7 +2,7 @@
 **FOIL UI is a CSS based Framework Library that contains the most Animations, Transitions, and the most Luxurious User Interface Alternative for the Web.**
 
 - [FOIL-UI-Framework-Library](#foil-ui-framework-library)
-- [Installation](#installation)
+- [How to run and use FOIL-UI](#how-to-run-and-use-foil-ui)
 - [FOIL-Text-Header](#foil-text-header)
     - [Text Header 1](#text-header-1)
     - [Text Header 2](#text-header-2)
@@ -55,10 +55,21 @@
     - [Black Text Color on a highlight](#black-text-color-on-a-highlight)
     - [Example](#example)
 - [FOIL-Font-Size](#foil-font-size)
+- [Credits](#credits)
 
 
-# Installation
-Later On....
+# How to run and use FOIL-UI
+There is a easy, and efficient way to use and run FOIL-UI. 
+
+*  You can use the CDN version of the FOIL-UI. This is recommended, 
+   because it always will update itself, so you will have the 
+   amazing and unique new features of FOIL-UI. This is hosted on 
+   the jsdeliver platform. [https://www.jsdelivr.com/]
+
+   ````
+   https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css
+   ````
+
 
 
 
@@ -557,3 +568,28 @@ FOIL-Font-Size is a unique feature that alters the ```<html>``` tags. This allow
     </div>
   </body>
 </html>
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Credits 
+https://www.jsdelivr.com/
