@@ -1,4 +1,25 @@
 # Change Log
+**Release Notes for v.2.0.3**
+In this update: 
+* Introducing new layout features
+* Rounded Corners Layouts 
+* Layouts are redesigned with a touch of shadows making it more accessible for everybody.
+  * That includes for ```FOIL-Layout``` and ```FOIL-Layout Rounded```
+
+
+**More Information:**
+* **FOIL-Layout-Rounded**
+  * ```<div class="FOIL-Layout Rounded"></div>```
+    * ```<div class="FOIL-Layout Rounded color-is-red>```
+    * ```<div class="FOIL-Layout Rounded color-is-black>```
+    * ```<div class="FOIL-Layout Rounded color-is-yellow>```
+    * ```<div class="FOIL-Layout Rounded color-is-green>```
+    * ```<div class="FOIL-Layout Rounded color-is-blue>```
+    * ```<div class="FOIL-Layout Rounded color-is-orange>```
+
+
+
+
 **Release Notes for v.2.0.2**
 * Updated the README.md documentation
 * This update talks about the new way using FOIL-UI, in a more efficient matter. 
