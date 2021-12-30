@@ -1,4 +1,16 @@
 # Change Log
+**Release Notes for v.2.0.3.1**
+In this update: 
+* Added a little depth of shadows on the Layouts
+
+````css
+/* Before Layout Shadow Change */ 
+box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
+
+/* After Layout Shadow Change */
+box-shadow: 0 1px 60px 0 rgba(0, 0, 0, 0.459), 0 60px 60px 0 rgba(61, 61, 61, 0.589);
+````
+
 **Release Notes for v.2.0.3**
 In this update: 
 * Introducing new layout features
