@@ -1,6 +1,6 @@
 # FOIL-UI-Framework-Library
 
-**FOIL UI is a CSS based Framework Library that contains the most Animations, Transitions, and the most Luxurious User Interface Alternative for the Web.**
+**FOIL UI is a CSS-based Framework Library with the most Animations, Transitions, and Luxurious User Interface Alternatives available on the Web.**
 
 - [FOIL-UI-Framework-Library](#foil-ui-framework-library)
 - [How to run and use FOIL-UI](#how-to-run-and-use-foil-ui)
