@@ -446,5 +446,35 @@ FOIL-Font-Size is a unique feature that alters the ```<html>``` tags. This allow
 </html>
 ```
 
+
+# Tips and Tricks
+
+
+
+
+### How to modify FOIL-UI Components
+To modify the FOIL-UI components easily, without having to change the entire
+source code, you can do this. Just follow the steps here. 
+
+* Create a new file in your project directory called `custom.css`
+
+* Include the FOIL-UI.css file like this: 
+````css
+/* Using FOIL-UI Locally in your project */
+@import url('FOIL-UI.css');
+
+/* Using FOIL-UI using the CDN */
+@import url('https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css');
+
+
+
+
+
+````
+
+
+
+
+
 # Credits 
 https://www.jsdelivr.com/
