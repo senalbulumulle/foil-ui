@@ -69,26 +69,25 @@
 
 # How to run and use FOIL-UI
 
-There is a easy, and efficient way to use and run FOIL-UI. 
+FOIL-UI can be used and run in a simple and efficient manner. 
 
-* You can use the CDN version of the FOIL-UI. This is recommended, 
-  because it always will update itself, so you will have the 
-  amazing and unique new features of FOIL-UI. This is hosted on 
-  the jsdeliver platform. [https://www.jsdelivr.com/]
+* You can use the FOIL-UI CDN version. This is recommended because it will always update itself, ensuring that you have access to the amazing and unique new features of FOIL-UI. The jsdeliver platform is hosting this.  
   
-  ```
-  <link rel=stylesheet href=https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css>
-  ```
+  [https://www.jsdelivr.com/](https://www.jsdelivr.com/)
+
+```
+<link rel="stylesheet" href="" type="text/css">
+```
 
 # FOIL-Text-Header
 
-Text Header is a DIV class that gives the font sizes similar to the Common HTML Tags like:
+Text Header is a DIV class that offers font sizes similar to Common HTML Tags like:
 
 ```html
 <h1> <h2> <h3> <h4> <h5> <h6>
 ```
 
-**To Get Started, call the div class called .FOIL-Text-Header.**
+**To begin, call the div class named. FOIL-Text-Header.**
 
 ### Text Header 1
 
@@ -128,7 +127,7 @@ Text Header is a DIV class that gives the font sizes similar to the Common HTML 
 
 # FOIL-Navigation-Bar
 
-Navigation Bar is a DIV class that allows you to put links on top of a web interface or web page.
+You can add links to the top of a web interface or web page using the Navigation Bar DIV class.
 
 **To Get Started, call this div class:**
 
@@ -136,7 +135,7 @@ Navigation Bar is a DIV class that allows you to put links on top of a web inter
 <div class = "FOIL-Navigation-Bar"></div>
 ```
 
-**NOTE: By default, the div class "FOIL-Navigation-Bar" is transparent.**
+**NOTE: By default, the div class `FOIL-Navigation-Bar` is transparent.**
 
 **Here's how you can get the colors on the Navigation Bars in FOIL UI.**
 
@@ -172,7 +171,7 @@ Navigation Bar is a DIV class that allows you to put links on top of a web inter
 
 # FOIL-Font-Styles
 
-FOIL-Font-Styles is a DIV class that displays the different typefaces.
+FOIL-Font-Styles is a DIV class that displays the different fonts.
 
 **To Get Started, call this div class:**
 
@@ -212,11 +211,11 @@ FOIL-Font-Styles is a DIV class that displays the different typefaces.
 <div class = "FOIL-Font-Styles--sans-serif"></div>
 ```
 
-**Note: By Default the Times Font will be displayed as output without the FOIL-Font-Styles div class.** 
+**Note: Without the `FOIL-Font-Styles` div class, the Times Font will be displayed as output by default.** 
 
 # FOIL-button
 
-FOIL-button is a DIV class that displays buttons that can do anything with.
+FOIL-button is a DIV class that displays buttons that can be used in a number of different ways.
 
 **To Get Started, call this div class:**
 
@@ -276,7 +275,7 @@ FOIL-button is a DIV class that displays buttons that can do anything with.
 
 # FOIL-button-small
 
-FOIL-button-small is a DIV class that displays small buttons that can do anything with.
+FOIL-button-small is a DIV class that displays small buttons that can be used for a variety of purposes.
 
 **To Get Started, call this div class:**
 
@@ -336,7 +335,7 @@ FOIL-button-small is a DIV class that displays small buttons that can do anythin
 
 # FOIL-Layout
 
-FOIL-Layout is a DIV class that displays layouts that can do anything with.
+FOIL-Layout is a DIV class that shows layouts that can be used for anything.
 
 **To Get Started, call this div class:**
 
@@ -384,7 +383,7 @@ FOIL-Layout is a DIV class that displays layouts that can do anything with.
 
 # FOIL-Layout Rounded
 
-FOIL-Layout Rounded is a DIV class that is related to ```FOIL-Layout ```that displays rounded layouts that you can do anything with.
+FOIL-Layout Rounded is a DIV class related to `FOIL-Layout` that displays rounded layouts with which you can do whatever you want. 
 
 **To Get Started, call this div class:**
 
@@ -508,28 +507,4 @@ FOIL-Font-Size is a unique feature that alters the ```<html>``` tags. This allow
     </div>
   </body>
 </html>
-```
-
-# Tips and Tricks
-
-### How to modify FOIL-UI Components
-
-To modify the FOIL-UI components easily, without having to change the entire
-source code, you can do this. Just follow the steps here. 
-
-* Create a new file in your project directory called `custom.css`
-
-* Include the FOIL-UI.css file like this: 
-  
-  ```css
-  /* Using FOIL-UI Locally in your project */
-  @import url('FOIL-UI.css');
-  ```
-
-/* Using FOIL-UI using the CDN */
-@import url('https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css');
-
-```
-# Credits 
-https://www.jsdelivr.com/
 ```
