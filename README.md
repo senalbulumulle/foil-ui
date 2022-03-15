@@ -3,6 +3,95 @@
 **FOIL UI is a CSS-based Framework Library with the most Animations, Transitions, and Luxurious User Interface Alternatives available on the Web.**
 
 
+- [FOIL-UI-Framework-Library](#foil-ui-framework-library)
+
+
+- [How to run and use FOIL-UI](#how-to-run-and-use-foil-ui)
+
+
+- [FOIL-Text-Header](#foil-text-header)
+    - [Text Header 1](#text-header-1)
+    - [Text Header 2](#text-header-2)
+    - [Text Header 3](#text-header-3)
+    - [Text Header 4](#text-header-4)
+    - [Text Header 5](#text-header-5)
+    - [Text Header 6](#text-header-6)
+
+
+- [FOIL-Navigation-Bar](#foil-navigation-bar)
+    - [Red Color on Navigation Bar](#red-color-on-navigation-bar)
+    - [Black Color on Navigation Bar](#black-color-on-navigation-bar)
+    - [Yellow Color on Navigation Bar](#yellow-color-on-navigation-bar)
+    - [Green Color on Navigation Bar](#green-color-on-navigation-bar)
+    - [Blue color on Navigation Bar](#blue-color-on-navigation-bar)
+
+
+- [FOIL-Font-Styles](#foil-font-styles)
+    - [FOIL-Font-Styles--Impact](#foil-font-styles--impact)
+    - [FOIL-Font-Styles--Georgia](#foil-font-styles--georgia)
+    - [FOIL-Font-Styles--Verdana](#foil-font-styles--verdana)
+    - [FOIL-Font-Styles--times](#foil-font-styles--times)
+    - [FOIL-Font-Styles--sans-serif](#foil-font-styles--sans-serif)
+
+
+- [FOIL-button](#foil-button)
+    - [Red Color on a Button](#red-color-on-a-button)
+    - [Black Color on a Button](#black-color-on-a-button)
+    - [Yellow Color on a Button](#yellow-color-on-a-button)
+    - [Green Color on a Button](#green-color-on-a-button)
+    - [Blue color on a Button](#blue-color-on-a-button)
+    - [Orange color on a Button](#orange-color-on-a-button)
+    - [Pink color on a Button](#pink-color-on-a-button)
+    - [Purple color on a Button](#purple-color-on-a-button)
+
+
+- [FOIL-button-small](#foil-button-small)
+    - [Red Color on a Small Button](#red-color-on-a-small-button)
+    - [Black Color on a Small Button](#black-color-on-a-small-button)
+    - [Yellow Color on a Small Button](#yellow-color-on-a-small-button)
+    - [Green Color on a Small Button](#green-color-on-a-small-button)
+    - [Blue color on a Small Button](#blue-color-on-a-small-button)
+    - [Orange color on a Small Button](#orange-color-on-a-small-button)
+    - [Pink color on a Small Button](#pink-color-on-a-small-button)
+    - [Purple color on a Small Button](#purple-color-on-a-small-button)
+
+
+- [FOIL-Layout](#foil-layout)
+    - [Red Color on a layout](#red-color-on-a-layout)
+    - [Black Color on a layout](#black-color-on-a-layout)
+    - [Yellow Color on a layout](#yellow-color-on-a-layout)
+    - [Green Color on a layout](#green-color-on-a-layout)
+    - [Blue color on a layout](#blue-color-on-a-layout)
+    - [Orange color on a layout](#orange-color-on-a-layout)
+
+
+- [FOIL-Layout Rounded](#foil-layout-rounded)
+    - [Red Color on a rounded layout](#red-color-on-a-rounded-layout)
+    - [Black Color on a rounded layout](#black-color-on-a-rounded-layout)
+    - [Yellow Color on a rounded layout](#yellow-color-on-a-rounded-layout)
+    - [Green Color on a rounded layout](#green-color-on-a-rounded-layout)
+    - [Blue color on a rounded layout](#blue-color-on-a-rounded-layout)
+    - [Orange color on a rounded layout](#orange-color-on-a-rounded-layout)
+
+
+- [FOIL-Highlight](#foil-highlight)
+    - [Red Color on a highlight](#red-color-on-a-highlight)
+    - [Yellow Color on a highlight](#yellow-color-on-a-highlight)
+    - [Green Color on a highlight](#green-color-on-a-highlight)
+    - [White Text Color on a highlight](#white-text-color-on-a-highlight)
+    - [Black Text Color on a highlight](#black-text-color-on-a-highlight)
+    - [Example](#example)
+
+
+- [FOIL-Font-Size](#foil-font-size)
+
+
+- [Tips and Tricks](#tips-and-tricks)
+    - [How to modify FOIL-UI Components](#how-to-modify-foil-ui-components)
+
+
+- [Credits](#credits)
+
 
 # How to run and use FOIL-UI
 
