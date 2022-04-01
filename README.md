@@ -102,7 +102,7 @@ FOIL-UI can be used and run in a simple and efficient manner.
   [https://www.jsdelivr.com/](https://www.jsdelivr.com/)
 
 ```
-<link rel="stylesheet" href="" type="text/css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css" type="text/css">
 ```
 
 # FOIL-Text-Header
