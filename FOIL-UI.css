@@ -1,6 +1,6 @@
 /*****************************************************
         FOÏL UI.css 
-        Version 2.0.3.1
+        Version 2.0.4
 *******************************************************/
 
 
@@ -114,6 +114,7 @@ body {
   transition-duration: 0.2s;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
+
 /*****************************************************
          Button Color Substitutes 
 *******************************************************/
@@ -148,6 +149,31 @@ body {
 .FOIL-button.color-is-purple {
   background-color: rgba(126, 0, 185, 0.931);
   color: white;
+}
+/*****************************************************
+         Snake Sunset Color Scheme
+*******************************************************/
+.FOIL-button.color-snake-sunset-color-one {
+  background-color: #65534b;
+  color: white;
+}
+.FOIL-button.color-snake-sunset-color-two {
+  background-color: #a2805c;
+  color:white;
+}
+.FOIL-button.color-snake-sunset-color-three {
+  background-color: #e8b464;
+  color:black;
+}
+.FOIL-button.color-snake-sunset-color-four {
+  background-color: #cf7f00
+}
+.FOIL-button.color-snake-sunset-color-five {
+  background-color: #ffb300;
+  color: black;
+}
+.FOIL-button.color-snake-sunset-color-six {
+  background-color: #ff0000;
 }
 .FOIL-button:hover {
   box-shadow: 0 12px 16px 0 rgb(1, 208, 67), 0 17px 50px 0 rgb(1, 208, 67);

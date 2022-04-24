@@ -1,4 +1,8 @@
 # Change Log
+**Release Notes for v.2.0.4**
+In this update: 
+* The Snake Sunset Theme Color Scheme has been added to `FOIL-button`
+
 **Release Notes for v.2.0.3.1**
 In this update: 
 * Added a little depth of shadows on the Layouts
