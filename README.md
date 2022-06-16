@@ -608,8 +608,12 @@ source code, you can do this. Just follow the steps here.
   @import url('FOIL-UI.css');
   ```
 
+```
 /* Using FOIL-UI using the CDN */
 @import url('https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css');
+```
+
+
 
 ```
 # Credits 
