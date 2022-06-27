@@ -1,4 +1,9 @@
 # Change Log
+**Release Notes for v.2.0.4.1**
+In this update: 
+* Made `FOIL-Navigation-Bar` sticky
+	* By doing this, the Navigation-Bar is kept in place when the user scrolls down. 
+
 **Release Notes for v.2.0.4**
 In this update: 
 * The Snake Sunset Theme Color Scheme has been added to `FOIL-button`
