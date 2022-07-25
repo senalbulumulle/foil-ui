@@ -298,11 +298,7 @@ FOIL-button is a DIV class that displays buttons that can be used in a number of
 
 Starting with FOIL-UI Version 2.0.4 and later, FOIL-UI has a feature where you can get color palleted themes for `FOIL-button`. 
 
-
-
 Here's how you can get the FOIL-button color palettes
-
-
 
 **To Get Started, call this div class:**
 
@@ -338,23 +334,15 @@ Here's how you can get the FOIL-button color palettes
 
 ### Color Five on a Button
 
-
-
 ```html
 <div class="FOIL-button-color-snake-sunset-color-five"></div>
 ```
-
-
-
-
 
 ### Color Six on a Button
 
 ```html
 <div class="FOIL-button-color-snake-sunset-color-six"></div>
 ```
-
-
 
 # FOIL-button-small
 
@@ -599,23 +587,22 @@ FOIL-Font-Size is a unique feature that alters the ```<html>``` tags. This allow
 To modify the FOIL-UI components easily, without having to change the entire
 source code, you can do this. Just follow the steps here. 
 
-* Create a new file in your project directory called `custom.css`
+>  **Create a new file in your project directory called `config.css`**
 
-* Include the FOIL-UI.css file like this: 
-  
-  ```css
-  /* Using FOIL-UI Locally in your project */
-  @import url 'FOIL-UI.css';
-  ```
+> > **If you are using the offline version of FOIL-UI, please include the following in the `config.css` file:**
 
-```
-/* Using FOIL-UI using the CDN */
-@import url 'https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css';
-```
+> > ```css
+> > /* Using FOIL-UI Locally in your project */
+> > @import url 'FOIL-UI.css';
+> > ```
 
+> > **If you are using the online version of FOIL-UI, please include the following in the `config.css` file:**
+> > 
+> > ```css
+> > /* Using FOIL-UI using the CDN */
+> > @import url 'https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css';
+> > ```
 
+# Credits
 
-```
-# Credits 
-https://www.jsdelivr.com/
-```
+[https://www.jsdelivr.com/](https://www.jsdelivr.com/)
