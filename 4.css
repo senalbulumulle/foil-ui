@@ -1,0 +1,103 @@
+/*****************************************************
+        Buttons DIV Class
+*******************************************************/
+.FOIL-button {
+        background-color: gray;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-flex;
+        border-radius: 10px;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.2s;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
+}
+
+/*****************************************************
+         Button Color Substitutes 
+*******************************************************/
+.FOIL-button.color-is-red {
+        background-color: rgba(185, 0, 0, 0.931);
+        color: white;
+}
+
+.FOIL-button.color-is-black {
+        background-color: rgba(0, 0, 0, 0.931);
+        color: white;
+}
+
+.FOIL-button.color-is-yellow {
+        background-color: rgba(255, 217, 0, 0.931);
+        color: black;
+}
+
+.FOIL-button.color-is-green {
+        background-color: rgb(67, 91, 68);
+        color: white;
+}
+
+.FOIL-button.color-is-blue {
+        background-color: rgb(67, 69, 91);
+        color: white;
+}
+
+.FOIL-button.color-is-orange {
+        background-color: rgb(167, 72, 14);
+        color: white;
+}
+
+.FOIL-button.color-is-pink {
+        background-color: rgba(185, 0, 114, 0.931);
+        color: white;
+}
+
+.FOIL-button.color-is-purple {
+        background-color: rgba(126, 0, 185, 0.931);
+        color: white;
+}
+
+/*****************************************************
+         Snake Sunset Color Scheme
+*******************************************************/
+.FOIL-button.color-snake-sunset-color-one {
+        background-color: #65534b;
+        color: white;
+}
+
+.FOIL-button.color-snake-sunset-color-two {
+        background-color: #a2805c;
+        color: white;
+}
+
+.FOIL-button.color-snake-sunset-color-three {
+        background-color: #e8b464;
+        color: black;
+}
+
+.FOIL-button.color-snake-sunset-color-four {
+        background-color: #cf7f00
+}
+
+.FOIL-button.color-snake-sunset-color-five {
+        background-color: #ffb300;
+        color: black;
+}
+
+.FOIL-button.color-snake-sunset-color-six {
+        background-color: #ff0000;
+}
+
+.FOIL-button:hover {
+        box-shadow: 0 12px 16px 0 rgb(1, 208, 67), 0 17px 50px 0 rgb(1, 208, 67);
+        background-color: rgb(1, 208, 67);
+        color: white;
+}
+
+.FOIL-button:active {
+        box-shadow: 0 12px 16px 0 rgb(255, 0, 0), 0 17px 50px 0 rgb(255, 0, 0);
+        background-color: red;
+        color: white;
+}
