@@ -1,7 +1,7 @@
 /*****************************************************
         Buttons DIV Class
 *******************************************************/
-.FOIL-button-regular {
+.FOIL-button.regular {
         background-color: gray;
         border: none;
         color: white;
@@ -24,37 +24,37 @@
         color: white;
 }
 
-.FOIL-button-regular.color-is-black {
+.FOIL-button.regular.color-is-black {
         background-color: rgba(0, 0, 0, 0.931);
         color: white;
 }
 
-.FOIL-button-regular.color-is-yellow {
+.FOIL-button.regular.color-is-yellow {
         background-color: rgba(255, 217, 0, 0.931);
         color: black;
 }
 
-.FOIL-button-regular.color-is-green {
+.FOIL-button.regular.color-is-green {
         background-color: rgb(67, 91, 68);
         color: white;
 }
 
-.FOIL-button-regular.color-is-blue {
+.FOIL-button.regular.color-is-blue {
         background-color: rgb(67, 69, 91);
         color: white;
 }
 
-.FOIL-button-regular.color-is-orange {
+.FOIL-button.regular.color-is-orange {
         background-color: rgb(167, 72, 14);
         color: white;
 }
 
-.FOIL-button-regular.color-is-pink {
+.FOIL-button.regular.color-is-pink {
         background-color: rgba(185, 0, 114, 0.931);
         color: white;
 }
 
-.FOIL-button-regular.color-is-purple {
+.FOIL-button.regular.color-is-purple {
         background-color: rgba(126, 0, 185, 0.931);
         color: white;
 }
@@ -62,41 +62,41 @@
 /*****************************************************
          Snake Sunset Color Scheme
 *******************************************************/
-.FOIL-button-regular.color-snake-sunset-color-one {
+.FOIL-button.regular.color-snake-sunset-color-one {
         background-color: #65534b;
         color: white;
 }
 
-.FOIL-button-regular.color-snake-sunset-color-two {
+.FOIL-button.regular.color-snake-sunset-color-two {
         background-color: #a2805c;
         color: white;
 }
 
-.FOIL-button-regular.color-snake-sunset-color-three {
+.FOIL-button.regular.color-snake-sunset-color-three {
         background-color: #e8b464;
         color: black;
 }
 
-.FOIL-button-regular.color-snake-sunset-color-four {
+.FOIL-button.regular.color-snake-sunset-color-four {
         background-color: #cf7f00
 }
 
-.FOIL-button-regular.color-snake-sunset-color-five {
+.FOIL-button.regular.color-snake-sunset-color-five {
         background-color: #ffb300;
         color: black;
 }
 
-.FOIL-button-regular.color-snake-sunset-color-six {
+.FOIL-button.regular.color-snake-sunset-color-six {
         background-color: #ff0000;
 }
 
-.FOIL-button-regular:hover {
+.FOIL-button.regular:hover {
         box-shadow: 0 12px 16px 0 rgb(1, 208, 67), 0 17px 50px 0 rgb(1, 208, 67);
         background-color: rgb(1, 208, 67);
         color: white;
 }
 
-.FOIL-button-regular:active {
+.FOIL-button.regular:active {
         box-shadow: 0 12px 16px 0 rgb(255, 0, 0), 0 17px 50px 0 rgb(255, 0, 0);
         background-color: red;
         color: white;
