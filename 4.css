@@ -1,5 +1,5 @@
 /*****************************************************
-        Buttons DIV Class
+        Regular Buttons DIV Class
 *******************************************************/
 .FOIL-button.regular {
         background-color: gray;
@@ -17,7 +17,7 @@
 }
 
 /*****************************************************
-         Button Color Substitutes 
+         Regular Buttons Color Substitutes 
 *******************************************************/
 .FOIL-button-regular.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
