@@ -16,39 +16,6 @@
         box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 
-/*****************************************************
-        Regular Buttons NO SHADOWS DIV class
-*******************************************************/
-.FOIL-button.regular-no-shadow {
-        background-color: gray;
-        border: none;
-        color: white;
-        padding: 16px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-flex;
-        border-radius: 10px;
-        font-size: 16px;
-        margin: 4px 2px;
-        transition-duration: 0.2s;
-}
-
-/*****************************************************
-        Regular Buttons Feedback Behavior Parameters
-*******************************************************/
-
-.FOIL-button.regular:hover {
-        box-shadow: 0 12px 16px 0 rgb(1, 208, 67), 0 17px 50px 0 rgb(1, 208, 67);
-        background-color: rgb(1, 208, 67);
-        color: white;
-}
-
-.FOIL-button.regular:active {
-        box-shadow: 0 12px 16px 0 rgb(255, 0, 0), 0 17px 50px 0 rgb(255, 0, 0);
-        background-color: red;
-        color: white;
-}
-
 /*************************************************************
         Regular Buttons NO SHADOW Feedback Behavior Parameters
 **************************************************************/
@@ -108,8 +75,22 @@
         color: white;
 }
 
-
-
+/*****************************************************
+        Regular Buttons NO SHADOWS DIV class
+*******************************************************/
+.FOIL-button.regular-no-shadow {
+        background-color: gray;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-flex;
+        border-radius: 10px;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.2s;
+}
 
 /*****************************************************
          Regular Buttons Color Substitutes 
@@ -145,7 +126,7 @@
         color: white;
 }
 
-.FOIL-button.color-is-pink {
+.FOIL-button-regular.color-is-pink {
         background-color: rgba(185, 0, 114, 0.931);
         color: white;
 }
@@ -155,34 +136,18 @@
         color: white;
 }
 
-
 /*****************************************************
-         Snake Sunset Color Scheme
+        Regular Buttons Feedback Behavior Parameters
 *******************************************************/
-.FOIL-button.regular.color-snake-sunset-color-one {
-        background-color: #65534b;
+
+.FOIL-button.regular:hover {
+        box-shadow: 0 12px 16px 0 rgb(1, 208, 67), 0 17px 50px 0 rgb(1, 208, 67);
+        background-color: rgb(1, 208, 67);
         color: white;
 }
 
-.FOIL-button.regular.color-snake-sunset-color-two {
-        background-color: #a2805c;
+.FOIL-button.regular:active {
+        box-shadow: 0 12px 16px 0 rgb(255, 0, 0), 0 17px 50px 0 rgb(255, 0, 0);
+        background-color: red;
         color: white;
-}
-
-.FOIL-button.regular.color-snake-sunset-color-three {
-        background-color: #e8b464;
-        color: black;
-}
-
-.FOIL-button.regular.color-snake-sunset-color-four {
-        background-color: #cf7f00
-}
-
-.FOIL-button.regular.color-snake-sunset-color-five {
-        background-color: #ffb300;
-        color: black;
-}
-
-.FOIL-button.regular.color-snake-sunset-color-six {
-        background-color: #ff0000;
 }
