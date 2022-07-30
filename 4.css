@@ -16,6 +16,9 @@
         box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 
+
+
+
 /*************************************************************
         Regular Buttons NO SHADOW Feedback Behavior Parameters
 **************************************************************/
@@ -31,6 +34,9 @@
         background-color: red;
         color: white;
 }
+
+
+
 
 /*****************************************************
          Regular Buttons Color Substitutes 
@@ -75,6 +81,24 @@
         color: white;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*****************************************************
         Regular Buttons NO SHADOWS DIV class
 *******************************************************/
@@ -91,6 +115,9 @@
         margin: 4px 2px;
         transition-duration: 0.2s;
 }
+
+
+
 
 /*****************************************************
          Regular Buttons Color Substitutes 
@@ -121,20 +148,23 @@
         color: white;
 }
 
-.FOIL-button-regular.color-is-orange {
+.FOIL-button-regular-no-shadow.color-is-orange {
         background-color: rgb(167, 72, 14);
         color: white;
 }
 
-.FOIL-button-regular.color-is-pink {
+.FOIL-button-regular-no-shadow.color-is-pink {
         background-color: rgba(185, 0, 114, 0.931);
         color: white;
 }
 
-.FOIL-button-regular.color-is-purple {
+.FOIL-button-regular-no-shadow.color-is-purple {
         background-color: rgba(126, 0, 185, 0.931);
         color: white;
 }
+
+
+
 
 /*****************************************************
         Regular Buttons Feedback Behavior Parameters
