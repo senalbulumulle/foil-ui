@@ -16,22 +16,6 @@
         box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 
-/*************************************************************
-        Regular Buttons NO SHADOW Feedback Behavior Parameters
-**************************************************************/
-
-.FOIL-button-regular-no-shadow:hover {
-        box-shadow: 0 12px 16px 0 rgb(1, 208, 67), 0 17px 50px 0 rgb(1, 208, 67);
-        background-color: rgb(1, 208, 67);
-        color: white;
-}
-
-.FOIL-button-regular-no-shadow:active {
-        box-shadow: 0 12px 16px 0 rgb(255, 0, 0), 0 17px 50px 0 rgb(255, 0, 0);
-        background-color: red;
-        color: white;
-}
-
 /*****************************************************
          Regular Buttons Color Substitutes 
 *******************************************************/
@@ -149,5 +133,21 @@
 
 .FOIL-button-regular-no-shadow.color-is-purple {
         background-color: rgba(126, 0, 185, 0.931);
+        color: white;
+}
+
+/*************************************************************
+        Regular Buttons NO SHADOW Feedback Behavior Parameters
+**************************************************************/
+
+.FOIL-button-regular-no-shadow:hover {
+        box-shadow: 0 12px 16px 0 rgb(1, 208, 67), 0 17px 50px 0 rgb(1, 208, 67);
+        background-color: rgb(1, 208, 67);
+        color: white;
+}
+
+.FOIL-button-regular-no-shadow:active {
+        box-shadow: 0 12px 16px 0 rgb(255, 0, 0), 0 17px 50px 0 rgb(255, 0, 0);
+        background-color: red;
         color: white;
 }
