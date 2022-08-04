@@ -1,32 +1,32 @@
 /*****************************************************
         Text-Header DIV Class
 *******************************************************/
-.FOIL-Text-Header-1 {
+.FOIL-text-header-1 {
         font-size: 2em;
         font-weight: bolder;
 }
 
-.FOIL-Text-Header-2 {
+.FOIL-text-header-2 {
         font-size: 1.5em;
         font-weight: bolder;
 }
 
-.FOIL-Text-Header-3 {
+.FOIL-text-header-3 {
         font-size: 1.17em;
         font-weight: bolder;
 }
 
-.FOIL-Text-Header-4 {
+.FOIL-text-header-4 {
         font-size: 1em;
         font-weight: bolder;
 }
 
-.FOIL-Text-Header-5 {
+.FOIL-text-header-5 {
         font-size: 0.83em;
         font-weight: bolder;
 }
 
-.FOIL-Text-Header-6 {
+.FOIL-text-header-6 {
         font-size: 0.67em;
         font-weight: bolder;
 }

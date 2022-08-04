@@ -1,7 +1,7 @@
 /*****************************************************
          Highlight DIV Class
 *******************************************************/
-.FOIL-Highlight {
+.FOIL-highlight {
         background-color: transparent;
         color: transparent;
 }
@@ -9,25 +9,25 @@
 /*****************************************************
          Highlight Color Substitutes
 *******************************************************/
-.FOIL-Highlight.color-is-red {
+.FOIL-highlight.color-is-red {
         background-color: red;
 }
 
-.FOIL-Highlight.color-is-yellow {
+.FOIL-highlight.color-is-yellow {
         background-color: yellow;
 }
 
-.FOIL-Highlight.color-is-green {
+.FOIL-highlight.color-is-green {
         background-color: rgb(156, 223, 57);
 }
 
 /*****************************************************
          Highlight Text Color Substitutes
 *******************************************************/
-.FOIL-Highlight.text-color-is-white {
+.FOIL-highlight.text-color-is-white {
         color: white;
 }
 
-.FOIL-Highlight.text-color-is-black {
+.FOIL-highlight.text-color-is-black {
         color: black;
 }
