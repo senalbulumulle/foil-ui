@@ -1,26 +1,26 @@
 /*****************************************************
         Font-Styles DIV Class
 *******************************************************/
-.FOIL-Font-Styles--Impact {
+.FOIL-font-styles.impact {
         font-family: Impact;
 }
 
-.FOIL-Font-Styles--Georgia {
+.FOIL-font-styles.georgia {
         font-family: Georgia;
 }
 
-.FOIL-Font-Styles--Verdana {
+.FOIL-font-styles.verdana {
         font-family: Verdana;
 }
 
-.FOIL-Font-Styles--times {
+.FOIL-font-styles.times {
         font-family: times;
 }
 
-.FOIL-Font-Styles--sans-serif {
+.FOIL-font-styles.sans-serif {
         font-family: sans-serif;
 }
 
-.FOIL-Font-Styles--monospace {
+.FOIL-font-styles.monospace {
         font-family: monospace;
 }
