@@ -1,7 +1,7 @@
 /*****************************************************
          Layout DIV Class
 *******************************************************/
-.FOIL-Layout-regular {
+.FOIL-layout-regular {
         background-color: transparent;
         color: black;
         padding: 10em 1em;
@@ -13,32 +13,32 @@
 /*****************************************************
          Layout Color Substitutes 
 *******************************************************/
-.FOIL-Layout-regular.color-is-red {
+.FOIL-layout-regular.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
 }
 
-.FOIL-Layout-regular.color-is-black {
+.FOIL-layout-regular.color-is-black {
         background-color: rgba(0, 0, 0, 0.931);
         color: white;
 }
 
-.FOIL-Layout-regular.color-is-yellow {
+.FOIL-layout-regular.color-is-yellow {
         background-color: rgba(255, 217, 0, 0.931);
         color: black;
 }
 
-.FOIL-Layout-regular.color-is-green {
+.FOIL-layout-regular.color-is-green {
         background-color: rgb(67, 91, 68);
         color: white;
 }
 
-.FOIL-Layout-regular.color-is-blue {
+.FOIL-layout-regular.color-is-blue {
         background-color: rgb(67, 69, 91);
         color: white;
 }
 
-.FOIL-Layout-regular.color-is-orange {
+.FOIL-layout-regular.color-is-orange {
         background-color: rgb(167, 72, 14);
         color: white;
 }
@@ -47,7 +47,7 @@
 /*****************************************************
          Layout NO SHADOWS
 *******************************************************/
-.FOIL-Layout-regular-no-shadow {
+.FOIL-layout-regular-no-shadow {
         background-color: transparent;
         color: black;
         padding: 10em 1em;
@@ -58,32 +58,32 @@
 /*****************************************************
          Layout NO SHADOWS Color Substitutes 
 *******************************************************/
-.FOIL-Layout-regular-no-shadow.color-is-red {
+.FOIL-layout-regular-no-shadow.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
 }
 
-.FOIL-Layout-regular-no-shadow.color-is-black {
+.FOIL-layout-regular-no-shadow.color-is-black {
         background-color: rgba(0, 0, 0, 0.931);
         color: white;
 }
 
-.FOIL-Layout-regular-no-shadow.color-is-yellow {
+.FOIL-layout-regular-no-shadow.color-is-yellow {
         background-color: rgba(255, 217, 0, 0.931);
         color: black;
 }
 
-.FOIL-Layout-regular-no-shadow.color-is-green {
+.FOIL-layout-regular-no-shadow.color-is-green {
         background-color: rgb(67, 91, 68);
         color: white;
 }
 
-.FOIL-Layout-regular-no-shadow.color-is-blue {
+.FOIL-layout-regular-no-shadow.color-is-blue {
         background-color: rgb(67, 69, 91);
         color: white;
 }
 
-.FOIL-Layout-regular-no-shadow.color-is-orange {
+.FOIL-layout-regular-no-shadow.color-is-orange {
         background-color: rgb(167, 72, 14);
         color: white;
 }
@@ -91,7 +91,7 @@
 /*****************************************************
          Layout Rounded DIV Class
 *******************************************************/
-.FOIL-Layout-rounded {
+.FOIL-layout-rounded {
         background-color: transparent;
         color: black;
         padding: 10em 1em;
@@ -105,32 +105,32 @@
 /*****************************************************
          Layout Rounded Color Substitutes 
 *******************************************************/
-.FOIL-Layout-rounded.color-is-red {
+.FOIL-layout-rounded.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
 }
 
-.FOIL-Layout-rounded.color-is-black {
+.FOIL-layout-rounded.color-is-black {
         background-color: rgba(0, 0, 0, 0.931);
         color: white;
 }
 
-.FOIL-Layout-rounded.color-is-yellow {
+.FOIL-layout-rounded.color-is-yellow {
         background-color: rgba(255, 217, 0, 0.931);
         color: black;
 }
 
-.FOIL-Layout-rounded.color-is-green {
+.FOIL-layout-rounded.color-is-green {
         background-color: rgb(67, 91, 68);
         color: white;
 }
 
-.FOIL-Layout-rounded.color-is-blue {
+.FOIL-layout-rounded.color-is-blue {
         background-color: rgb(67, 69, 91);
         color: white;
 }
 
-.FOIL-Layout-rounded.color-is-orange {
+.FOIL-layout-rounded.color-is-orange {
         background-color: rgb(167, 72, 14);
         color: white;
 }
@@ -139,7 +139,7 @@
 /*****************************************************
          Layout Rounded DIV Class
 *******************************************************/
-.FOIL-Layout-rounded-no-shadow {
+.FOIL-layout-rounded-no-shadow {
         background-color: transparent;
         color: black;
         padding: 10em 1em;
@@ -153,32 +153,32 @@
 /*****************************************************
          Layout Rounded Color Substitutes 
 *******************************************************/
-.FOIL-Layout-rounded-no-shadow.color-is-red {
+.FOIL-layout-rounded-no-shadow.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
 }
 
-.FOIL-Layout-rounded-no-shadow.color-is-black {
+.FOIL-layout-rounded-no-shadow.color-is-black {
         background-color: rgba(0, 0, 0, 0.931);
         color: white;
 }
 
-.FOIL-Layout-rounded-no-shadow.color-is-yellow {
+.FOIL-layout-rounded-no-shadow.color-is-yellow {
         background-color: rgba(255, 217, 0, 0.931);
         color: black;
 }
 
-.FOIL-Layout-rounded-no-shadow.color-is-green {
+.FOIL-layout-rounded-no-shadow.color-is-green {
         background-color: rgb(67, 91, 68);
         color: white;
 }
 
-.FOIL-Layout-rounded-no-shadow.color-is-blue {
+.FOIL-layout-rounded-no-shadow.color-is-blue {
         background-color: rgb(67, 69, 91);
         color: white;
 }
 
-.FOIL-Layout-rounded-no-shadow.color-is-orange {
+.FOIL-layout-rounded-no-shadow.color-is-orange {
         background-color: rgb(167, 72, 14);
         color: white;
 }
