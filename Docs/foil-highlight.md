@@ -1,4 +1,4 @@
- FOIL-Highlight
+# FOIL-Highlight
 
 FOIL-Highlight is a DIV class that displays a highlight color that can do anything with.
 
