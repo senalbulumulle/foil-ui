@@ -27,9 +27,9 @@ Here are the list of parameters that can be used:
 | How you do this in HTML Syntax?           |
 | ----------------------------------------- |
 
-`<div class="FOIL-font-styles></div>`
+`<div class="FOIL-font-styles"></div>`
 
 | Example Parameter                         |
 | ----------------------------------------- |
 
-`<div class="FOIL-font-styles sans-serif></div>`
+`<div class="FOIL-font-styles sans-serif"></div>`

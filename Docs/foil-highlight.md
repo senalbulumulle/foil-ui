@@ -29,7 +29,7 @@ Here are the list of parameters that can be used:
 | How you do this in HTML Syntax?           |
 | ----------------------------------------- |
 
-`<div class="FOIL-highlight></div>`
+`<div class="FOIL-highlight"></div>`
 
 
 

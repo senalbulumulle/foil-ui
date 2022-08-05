@@ -1,10 +1,10 @@
-# FOIL-Font-Size
+# FOIL-font-size
 
-FOIL-Font-Size is a unique feature that alters the ```<html>``` tags. This allows an ability to increase text size without using the div class or using regular tags like ```<h1> <h2> <h3> <h4> <h5> <h6> or <p> ```.
+FOIL-font-fize is a unique feature that alters the ```<html>``` tags. This allows an ability to increase text size without using the div class or using regular tags like ```<h1> <h2> <h3> <h4> <h5> <h6> or <p> ```.
 
 <ul></ul>
 
-**Here is an Example using ```<FOIL-Font-Size>```:**
+**Here is an Example using ```<FOIL-font-size>```:**
 
 ```html
 <html>
@@ -15,8 +15,8 @@ FOIL-Font-Size is a unique feature that alters the ```<html>``` tags. This allow
 
                 <div class="FOIL-Font-Styles--sans-serif">
                         <div class="FOIL-Layout color-is-black">
-                                <!-- Using the FOIL-Font-Size Feature -->
-                                <FOIL-Font-Size-30> This is my web app </FOIL-Font-Size-30>
+                                <!-- Using the FOIL-font-size Feature -->
+                                <FOIL-font-size-30> This is my web app </FOIL-font-size-30>
                         </div>
                 </div>
 
