@@ -1,43 +1,52 @@
 # FOIL-Navigation-Bar
 
-You can add links to the top of a web interface or web page using the Navigation Bar DIV class.
+You can display Navigation Bar with the help of `FOIL-navigation-bar` component.
 
-**To Get Started, call this div class:**
+You can add links to the top of a web interface or web page using the Navigation Bar. 
 
-```html
-<div class = "FOIL-Navigation-Bar"></div>
-```
+Here are the list of parameters that can be used: 
 
-**NOTE: By default, the div class `FOIL-Navigation-Bar` is transparent.**
+| FOIL-navigation-bar-regular              |
+| -----------------------------------------|
+| FOIL-navigation-bar-regular-shadow       |
 
-**Here's how you can get the colors on the Navigation Bars in FOIL UI.**
 
-### Red Color on Navigation Bar
 
-```html
-<div class = "FOIL-Navigation-Bar color-is-red>"></div>
-```
 
-### Black Color on Navigation Bar
+| Navigation Bar Color Parameters         |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
 
-```html
-<div class = "FOIL-Navigation-Bar color-is-black>"></div>
-```
 
-### Yellow Color on Navigation Bar
 
-```html
-<div class = "FOIL-Navigation-Bar color-is-yellow"></div>    
-```
+| How you do this in HTML Syntax?           |
+| ----------------------------------------- |
 
-### Green Color on Navigation Bar
+`<div class="FOIL-navigation-bar-regular"></div>`
 
-```html
-<div class = "FOIL-Navigation-Bar color-is-green"></div>
-```
+`<div class="FOIL-navigation-bar-shadow"></div>`
 
-### Blue color on Navigation Bar
+
+
+
+| Example Parameter                         |
+| ----------------------------------------- |
 
 ```html
-<div class = "FOIL-Navigation-Bar color-is-blue"></div>
+<div class="FOIL-font-styles sans-serif">
+        <div class="FOIL-navigation-bar-regular color-is-orange">
+                <div class="FOIL-text-header-1">
+                        Hello World!
+                </div>
+
+                <a href="#" class="FOIL-button-small color-is-yellow">1</a>
+                <a href="#" class="FOIL-button-small color-is-yellow">2</a>
+                <a href="#" class="FOIL-button-small color-is-yellow">3</a>
+                <a href="#" class="FOIL-button-small color-is-yellow">4</a>
+        </div>
+</div>
 ```

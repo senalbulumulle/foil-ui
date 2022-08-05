@@ -1,45 +1,62 @@
 # FOIL-Text-Header
 
-Text Header is a DIV class that offers font sizes similar to Common HTML Tags like:
+You can display the text header with the help of `FOIL-text-header` component.
+
+Here are the list of parameters that can be used: 
+
+| FOIL-text-header-regular                 |
+| -----------------------------------------|
+
+
+
+
+| Text Header  Parameters                 |
+| --------------------------------------- |
+| 1                                       |
+| 2                                       |
+| 3                                       |
+| 4                                       |
+| 5                                       |
+| 6                                       |
+
+
+
+
+| How you do this in HTML Syntax?           |
+| ----------------------------------------- |
+
+`<div class="FOIL-text-header"></div>`
+
+
+
+
+| Example Parameter                         |
+| ----------------------------------------- |
 
 ```html
-<h1> <h2> <h3> <h4> <h5> <h6>
-```
+<div class="FOIL-font-styles sans-serif">
+                <div class="FOIL-text-header-1">
+                        Hello world 
+                </div>
 
-**To begin, call the div class named. FOIL-Text-Header.**
+                <div class="FOIL-text-header-2">
+                        Hello world 
+                </div>
 
-### Text Header 1
+                <div class="FOIL-text-header-3">
+                        Hello world 
+                </div>
+                
+                <div class="FOIL-text-header-4">
+                        Hello world 
+                </div>    
 
-```html
-<div class = "FOIL-Text-Header-1">This is the Text</div>
-```
-
-### Text Header 2
-
-```html
-<div class = "FOIL-Text-Header-2">This is the Text</div>
-```
-
-### Text Header 3
-
-```html
-<div class = "FOIL-Text-Header-3">This is the Text</div>
-```
-
-### Text Header 4
-
-```html
-<div class = "FOIL-Text-Header-4">This is the Text</div>
-```
-
-### Text Header 5
-
-```html
-<div class = "FOIL-Text-Header-5">This is the Text</div>
-```
-
-### Text Header 6
-
-```html
-<div class = "FOIL-Text-Header-6">This is the Text</div>
+                <div class="FOIL-text-header-5">
+                        Hello world 
+                </div>
+                
+                <div class="FOIL-text-header-6">
+                        Hello world 
+                </div>    
+</div>
 ```

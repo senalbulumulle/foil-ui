@@ -1,43 +1,35 @@
-# FOIL-Font-Styles
+# FOIL-font-styles
 
-FOIL-Font-Styles is a DIV class that displays the different fonts.
+You can display font styles with the help of the `FOIL-font-styles` compoent.
 
-**To Get Started, call this div class:**
 
-```html
-<div class = "FOIL-Font-Styles"></div>
-```
 
-**Here's how you can get the font styles on FOIL UI.**
+Here are the list of parameters that can be used: 
 
-### FOIL-Font-Styles--Impact
 
-```html
-<div class = "FOIL-Font-Styles--Impact>"></div>
-```
 
-### FOIL-Font-Styles--Georgia
+| FOIL-font-styles                          |
+| ----------------------------------------- |
 
-```html
-<div class = "FOIL-Font-Styles--Georgia>"></div>
-```
 
-### FOIL-Font-Styles--Verdana
 
-```html
-<div class = "FOIL-Font-Styles--Verdana"></div>    
-```
+| Parameters                              |
+| --------------------------------------- |
+| impact                                  |
+| georgia                                 |
+| verdana				  |
+| times                                   |
+| sans-serif                              |
+| monospace                               |
 
-### FOIL-Font-Styles--times
 
-```html
-<div class = "FOIL-Font-Styles--times"></div>
-```
 
-### FOIL-Font-Styles--sans-serif
+| How you do this in HTML Syntax?           |
+| ----------------------------------------- |
 
-```html
-<div class = "FOIL-Font-Styles--sans-serif"></div>
-```
+`<div class="FOIL-font-styles></div>`
 
-**Note: Without the `FOIL-Font-Styles` div class, the Times Font will be displayed as output by default.** 
+| Example Parameter                         |
+| ----------------------------------------- |
+
+`<div class="FOIL-font-styles sans-serif></div>`

@@ -1,95 +1,51 @@
 # FOIL-Layout
 
-FOIL-Layout is a DIV class that shows layouts that can be used for anything.
+You can display layouts with the help of the `FOIL-layout` component.
 
-**To Get Started, call this div class:**
+Here are the list of parameters that can be used: 
 
-```html
-<div class = "FOIL-Layout"></div>
-```
+| FOIL-layout-regular                       |
+| ----------------------------------------- |
+| FOIL-layout-regular-no-shadow             |
 
-**Here's how you can get the colors of the layouts on FOIL UI.**
 
-### Red Color on a layout
 
-```html
-<div class = "FOIL-Layout color-is-red"></div>
-```
+| FOIL-layout-regular-rounded               |
+| ----------------------------------------- |
+| FOIL-layout-regular-no-shadow             |
 
-### Black Color on a layout
 
-```html
-<div class = "FOIL-Layout color-is-black"></div>
-```
 
-### Yellow Color on a layout
 
-```html
-<div class = "FOIL-Layout color-is-yellow"></div>    
-```
+| Layout Color Parameters                 |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
 
-### Green Color on a layout
 
-```html
-<div class = "FOIL-Layout color-is-green"></div>
-```
 
-### Blue color on a layout
+| How you do this in HTML Syntax?           |
+| ----------------------------------------- |
 
-```html
-<div class = "FOIL-Layout color-is-blue"></div>
-```
+`<div class="FOIL-layout-regular"></div>`
 
-### Orange color on a layout
+`<div class="FOIL-layout-rounded"></div>`
+
+
+
+
+| Example Parameter                         |
+| ----------------------------------------- |
 
 ```html
-<div class = "FOIL-Layout color-is-orange"></div>
-```
-
-# FOIL-Layout Rounded
-
-FOIL-Layout Rounded is a DIV class related to `FOIL-Layout` that displays rounded layouts with which you can do whatever you want. 
-
-**To Get Started, call this div class:**
-
-```html
-<div class = "FOIL-Layout Rounded"></div>
-```
-
-**Here's how you can get the colors of the rounded layouts on FOIL UI.**
-
-### Red Color on a rounded layout
-
-```html
-<div class = "FOIL-Layout Rounded color-is-red"></div>
-```
-
-### Black Color on a rounded layout
-
-```html
-<div class = "FOIL-Layout Rounded color-is-black"></div>
-```
-
-### Yellow Color on a rounded layout
-
-```html
-<div class = "FOIL-Layout Rounded color-is-yellow"></div>    
-```
-
-### Green Color on a rounded layout
-
-```html
-<div class = "FOIL-Layout Rounded color-is-green"></div>
-```
-
-### Blue color on a rounded layout
-
-```html
-<div class = "FOIL-Layout Rounded color-is-blue"></div>
-```
-
-### Orange color on a rounded layout
-
-```html
-<div class = "FOIL-Layout Rounded color-is-orange"></div>
+<div class="FOIL-font-styles sans-serif">
+        <div class="FOIL-layout-regular color-is-orange">
+                <div class="FOIL-text-header-1">
+                        Hello World!
+                </div>
+        </div>
+</div>
 ```

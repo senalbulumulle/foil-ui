@@ -1,55 +1,46 @@
 # FOIL-Highlight
 
-FOIL-Highlight is a DIV class that displays a highlight color that can do anything with.
+You can display highlighted text with the help of the FOIL-highlight component.
 
-**To Get Started, call this div class:**
+Here are the list of parameters that can be used: 
 
-```html
-<div class = "FOIL-Highlight"></div>
-```
 
-**Here's how you can get the colors of the highlights on FOIL UI.**
 
-### Red Color on a highlight
+| FOIL-highlight                            |
+| ----------------------------------------- |
 
-```html
-<div class = "FOIL-Highlight color-is-red"></div>
-```
 
-### Yellow Color on a highlight
 
-```html
-<div class = "FOIL-Highlight color-is-yellow"></div>
-```
+| Highlight Color Parameters              |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
 
-### Green Color on a highlight
 
-```html
-<div class = "FOIL-Highlight color-is-green"></div>    
-```
 
-**Here's how you can get the text colors of the highlights on FOIL UI.**
+| Highlight Text Color Parameters              |
+| -------------------------------------------- |
+| text color-is-white                          |
+| text color-is-black                          |
 
-### White Text Color on a highlight
 
-```html
-<div class = "FOIL-Highlight text-color-is-white"></div>
-```
 
-### Black Text Color on a highlight
+| How you do this in HTML Syntax?           |
+| ----------------------------------------- |
 
-```html
-<div class = "FOIL-Highlight text-color-is-black"></div>
-```
+`<div class="FOIL-highlight></div>`
 
-**Note: After you call the <code>"FOIL-Highlight color-is-"</code> div class, call the <code> "FOIL-Highlight text-color-is"</code>  div class.**
 
-### Example
+
+
+| Example Parameter                         |
+| ----------------------------------------- |
 
 ```html
-<div class = "FOIL-Highlight color-is-orange">
-  <div class="FOIL-Hightlight text-color-is-black">
-    <FOIL-Font-Size-10>Hello world</FOIL-Font-Size-10>
-  </div>
+<div class="FOIL-font-styles color-is-yellow>
+        <div class="FOIL-font-styles text color-is-white">
+                <FOIL-font-size-18>Highlighted text </FOIL-font-size-18>
+        </div>
 </div>
 ```
