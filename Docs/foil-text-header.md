@@ -1,4 +1,4 @@
-# FOIL-Text-Header
+# FOIL-text-header
 
 You can display the text header with the help of `FOIL-text-header` component.
 

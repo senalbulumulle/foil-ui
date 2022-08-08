@@ -1,4 +1,4 @@
-# FOIL-Highlight
+# FOIL-highlight
 
 You can display highlighted text with the help of the FOIL-highlight component.
 

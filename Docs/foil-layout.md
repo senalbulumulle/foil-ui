@@ -1,4 +1,4 @@
-# FOIL-Layout
+# FOIL-layout
 
 You can display layouts with the help of the `FOIL-layout` component.
 

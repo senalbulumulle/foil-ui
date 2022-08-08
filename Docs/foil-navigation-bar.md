@@ -1,4 +1,4 @@
-# FOIL-Navigation-Bar
+# FOIL-navigation-bar
 
 You can display Navigation Bar with the help of `FOIL-navigation-bar` component.
 
