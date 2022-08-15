@@ -1,0 +1,31 @@
+/************************************************************************
+ *      config.css
+ *
+ ************************************************************************/
+@import url('../../FOIL-UI.css');
+
+
+.FOIL-button-regular {
+        background-color: rgb(0, 0, 0);
+        color:white;
+        padding: 100px 20px 100px 20px;
+        border-radius: 20px;
+        transition-duration: 0.5s;
+}
+
+.FOIL-button-regular:hover {
+        background-color:black;
+        color: white;
+        padding: 50px 50px 50px 50px;
+        border-radius: 20px;
+        transition-duration: 0.5s;
+}
+
+
+.FOIL-button-regular:active {
+        background-color:rgb(255, 0, 0);
+        color: white;
+        padding: 50px 50px 500px 50px;
+        border-radius: 20px;
+        transition-duration: 1s;
+}
