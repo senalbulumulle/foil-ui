@@ -108,6 +108,6 @@ function content() {
 }
 
 print($INCLUDE_UI);
-
+content();
 ?>
 ```
