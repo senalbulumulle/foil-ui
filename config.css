@@ -2,5 +2,51 @@
  *      config.css
  *
  ************************************************************************/
+@import url('../../FOIL-UI.css');
 
- 
+
+.FOIL-button-regular-no-shadow {
+        background-color: rgb(0, 0, 0);
+        color:white;
+        padding: 10px 20px 10px 20px;
+        border-radius: 20px;
+        transition-duration: 0.5s;
+}
+
+.FOIL-button-regular-no-shadow:hover {
+        background-color:black;
+        color: white;
+        padding: 50px 50px 50px 50px;
+        border-radius: 20px;
+        transition-duration: 0.5s;
+}
+
+
+.FOIL-button-regular-no-shadow:active {
+        background-color:rgb(255, 0, 0);
+        color: white;
+        padding: 50px 50px 500px 50px;
+        border-radius: 20px;
+        transition-duration: 1s;
+}
+
+
+
+.FOIL-layout-regular-no-shadow {
+        background-color:rgba(7, 86, 8, 0.662);
+        border-radius: 10px 10px 20px 30px;
+        color: white;
+        padding: 40px 40px 40px 40px;
+        transition-duration: 1s;
+}
+
+
+
+.FOIL-layout-regular-no-shadow:hover {
+        background-color:black;
+        color: white;
+        padding: 50px 50px 50px 50px;
+        border-radius: 20px;
+        transition-duration: 0.5s;
+
+}

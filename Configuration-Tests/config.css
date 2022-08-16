@@ -29,3 +29,12 @@
         border-radius: 20px;
         transition-duration: 1s;
 }
+
+
+
+.FOIL-layout-regular-no-shadow {
+        background-color:rgba(7, 86, 8, 0.662);
+        border-radius: 10px 10px 20px 30px;
+        color: white;
+        padding: 40px 40px 40px 40px;
+}
