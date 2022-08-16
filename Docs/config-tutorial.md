@@ -73,6 +73,7 @@ Developers have the option to change FOIL-UI Components in accordance with their
 
 > You can also look at the template here
 
+### In HTML
 ```html
 <html>
 
@@ -93,7 +94,7 @@ Developers have the option to change FOIL-UI Components in accordance with their
 </html>
 ```
 
-
+### In PHP
 ```php
 <?php>
 
