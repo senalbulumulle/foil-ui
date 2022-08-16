@@ -99,6 +99,14 @@ Developers have the option to change FOIL-UI Components in accordance with their
 <?php>
 $INCLUDE_UI = print('<link rel="stylesheet" href="FOIL-UI.css"');
 
+function content() {
+        print('<div class="FOIL-font-styles sans-serif">');
+        print('<div class="FOIL-navigation-bar-regular">');
+        print('<h1> Interface </h1>');
+        print('</div>');
+        print('</div>');
+}
+
 print($INCLUDE_UI);
 
 ?>
