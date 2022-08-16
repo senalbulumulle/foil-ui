@@ -1,4 +1,191 @@
 # Change Log
+**Release Notes for v.2.0.5**
+
+In this update: 
+
+**Syntax Changes**
+* New syntax parameters have been added to the following components
+
+**Re-organized Docs:**
+* In this version, Docs is now re-organized into separate files
+
+**New Documentations:**
+* This version contains new documentation. The most recent additions to the
+  documentation explain how to edit FOIL-UI elements and make your own `config.css`
+  files. 
+
+
+**Other Notes:**
+* Sunset color scheme is removed in this version.
+
+## Buttons 
+| FOIL-button-regular                     |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+| FOIL-button-regular-no-shadow           |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+| FOIL-button-regular-no-feedback         |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+| FOIL-button-regular-no-feedback-no-shadow     |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+
+| FOIL-button-small                       |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+| FOIL-button-small-no-shadow             |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+
+| FOIL-button-small-no-feedback           |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+| FOIL-button-small-no-feedback-no-shadow |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+| FOIL-button-small-no-feedback-no-shadow |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+## Navigation-Bar
+| FOIL-navigation-bar-regular             |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+| FOIL-navigation-bar-regular-no-shadow   |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+
+| FOIL-navigation-bar-regular-no-shadow   |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+| color-is-pink                           |
+| color-is-purple                         |
+
+## Layouts
+| FOIL-layout-regular                     |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+
+| FOIL-layout-regular-no-shadow           |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+
+
+| FOIL-layout-rounded                     |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+
+| FOIL-layout-rounded-no-shadow           |
+| --------------------------------------- |
+| color-is-red                            |
+| color-is-yellow                         |
+| color-is-green                          |
+| color-is-blue                           |
+| color-is-orange                         |
+
 **Release Notes for v.2.0.4.1**
 In this update: 
 * Made `FOIL-Navigation-Bar` sticky
