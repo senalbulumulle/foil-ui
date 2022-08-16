@@ -13,7 +13,7 @@ Developers have the option to change FOIL-UI Components in accordance with their
 
 > Please create a new css file called `config.css` file. You can also 
 > create any `<name>.css` based on your liking, or preference. But 
-> we recommend doing it this way, `config.css`.
+> we recommend naming the file like this: `config.css`.
 
 
 
