@@ -11,6 +11,8 @@ Developers have the option to change FOIL-UI Components in accordance with their
 
 ## Getting Started? 
 
+### Step 1
+
 > Please create a new css file called `config.css` file. You can also 
 > create any `<name>.css` based on your liking, or preference. But 
 > we recommend naming the file like this: `config.css`.
@@ -60,4 +62,41 @@ Developers have the option to change FOIL-UI Components in accordance with their
 .FOIL-layout-regular-no-shadow {
         
 }
+```
+
+### Step 2
+
+> Then please create a new file whether it is in `.php` or `.html`
+
+> For example: `index.html` or `index.php`
+
+
+> You can also look at the template here
+
+```html
+<html>
+
+<head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="FOIL-UI.css" type="text/css">
+</head>
+
+<body>
+        <div class="FOIL-font-styles sans-serif">
+                <div class="FOIL-navigation-bar-regular">
+                        <h1> Interface </h1>
+                </div>
+        </div>
+</body>
+
+</html>
+```
+
+
+```php
+<?php>
+
+
+?>
 ```
