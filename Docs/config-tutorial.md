@@ -97,7 +97,9 @@ Developers have the option to change FOIL-UI Components in accordance with their
 ### In PHP
 ```php
 <?php>
+$INCLUDE_UI = print('<link rel="stylesheet" href="FOIL-UI.css"');
 
+print($INCLUDE_UI);
 
 ?>
 ```
