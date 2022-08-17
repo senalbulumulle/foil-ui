@@ -127,8 +127,6 @@ In this update:
 | color-is-green                          |
 | color-is-blue                           |
 | color-is-orange                         |
-| color-is-pink                           |
-| color-is-purple                         |
 
 
 | FOIL-navigation-bar-regular-no-shadow   |
@@ -138,8 +136,6 @@ In this update:
 | color-is-green                          |
 | color-is-blue                           |
 | color-is-orange                         |
-| color-is-pink                           |
-| color-is-purple                         |
 
 
 | FOIL-navigation-bar-regular-no-shadow   |
@@ -149,8 +145,6 @@ In this update:
 | color-is-green                          |
 | color-is-blue                           |
 | color-is-orange                         |
-| color-is-pink                           |
-| color-is-purple                         |
 
 ## Layouts
 | FOIL-layout-regular                     |
