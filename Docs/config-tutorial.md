@@ -1,23 +1,19 @@
-# Config Tutorial 
+# Config Tutorial
 
 This tutorial shows you how to modify FOIL-UI components, and coding
 in CSS in general. 
 
-
-## Why Config is important in FOIL-UI? 
+## Why Config is important in FOIL-UI?
 
 Developers have the option to change FOIL-UI Components in accordance with their preferences or requirements as of FOIL-UI 2.0.5 or later.
 
-
-## Getting Started? 
+## Getting Started?
 
 ### Step 1
 
 > Please create a new css file called `config.css` file. You can also 
 > create any `<name>.css` based on your liking, or preference. But 
 > we recommend naming the file like this: `config.css`.
-
-
 
 > You can also look at the `config.css` template here
 
@@ -30,16 +26,16 @@ Developers have the option to change FOIL-UI Components in accordance with their
 
 
 .FOIL-button-regular-no-shadow {
-        
+
 }
 
 .FOIL-button-regular-no-shadow:hover {
-        
+
 }
 
 
 .FOIL-button-regular-no-shadow:active {
-        
+
 }
 
 
@@ -49,18 +45,18 @@ Developers have the option to change FOIL-UI Components in accordance with their
 }
 
 .FOIL-button-small-no-shadow:hover {
-        
+
 }
 
 
 .FOIL-button-small-no-shadow:active {
-        
+
 }
 
 
 
 .FOIL-layout-regular-no-shadow {
-        
+
 }
 ```
 
@@ -70,10 +66,10 @@ Developers have the option to change FOIL-UI Components in accordance with their
 
 > For example: `index.html` or `index.php`
 
-
 > You can also look at the template here
 
 ### In HTML
+
 ```html
 <html>
 
@@ -81,6 +77,7 @@ Developers have the option to change FOIL-UI Components in accordance with their
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
         <link rel="stylesheet" href="FOIL-UI.css" type="text/css">
+        <link rel="stylesheet" href="config.css" type="text/css">
 </head>
 
 <body>
@@ -95,9 +92,10 @@ Developers have the option to change FOIL-UI Components in accordance with their
 ```
 
 ### In PHP
+
 ```php
-<?php>
-$INCLUDE_UI = print('<link rel="stylesheet" href="FOIL-UI.css"');
+<?php
+$INCLUDE_UI = print('<link rel="stylesheet" href="FOIL-UI.css" type="text/css"> <link rel="stylesheet" href="config.css" type="text/css">');
 
 function content() {
         print('<div class="FOIL-font-styles sans-serif">');
