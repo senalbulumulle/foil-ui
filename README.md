@@ -18,4 +18,4 @@
 <ul></ul>
 <a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-font-size.md" class="button">Font Sizes</a>
 <ul></ul>
-<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/tips-and-tricks.md" class="button">Font Sizes</a>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/tips-and-tricks.md" class="button">Tips and Tricks</a>
