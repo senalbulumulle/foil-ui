@@ -33,3 +33,15 @@ Here are the list of button types and parameters that can be used:
 | color-is-orange                               |
 | color-is-purple                               |
 | color-is-pink                                 |
+
+# FOIL-button-regular in html
+<img src="Assets/Buttons/foil-button-regular-in-html.png">
+
+# FOIL-button-regular-no-shadow in html
+<img src="Assets/Buttons/foil-button-regular-in-html.png">
+
+# FOIL-button-regular-no-feedback in html
+<img src="Assets/Buttons/foil-button-regular-no-feedback-in-html.png">
+
+# FOIL-button-regular-no-feedback-no-shadow in html
+<img src="Assets/Buttons/foil-button-regular-no-feedback-no-shadow-in-html.png">
