@@ -26,6 +26,31 @@ Here are the list of parameters that can be used:
 | color-is-orange                         |
 
 
+# FOIL-layout-regular (screenshot)
+<img src="Assets/Layout/foil-layout-regular-screenshot.png">
+
+
+# FOIL-layout-regular color-is-red (screenshot)
+<img src="Assets/Layout/foil-layout-regular-color-is-red-screenshot.png">
+
+
+# FOIL-layout-regular color-is-yellow (screenshot)
+<img src="Assets/Layout/foil-layout-regular-color-is-yellow-screenshot.png">
+
+
+# FOIL-layout-regular color-is-green (screenshot)
+<img src="Assets/Layout/foil-layout-regular-color-is-green-screenshot.png">
+
+
+# FOIL-layout-regular color-is-blue (screenshot)
+<img src="Assets/Layout/foil-layout-regular-color-is-blue-screenshot.png">
+
+# FOIL-layout-regular color-is-orange (screenshot)
+<img src="Assets/Layout/foil-layout-regular-color-is-orange-screenshot.png">
+
+
+
+
 
 | How you do this in HTML Syntax?           |
 | ----------------------------------------- |
