@@ -2,6 +2,8 @@
 
 <p align = "center"> FOIL UI is a CSS-based Framework Library with the most Animations, Transitions, and Luxurious User Interface Alternatives available on the Web.</b>
 
+<b align = "center"> This branch contains unstable releases of FOIL-UI. If you want the stable releases of FOIL-UI, please use the main branch</b>
+
 # Contents
 
 <a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-font-styles.md" class="button">Font Styles</a>
