@@ -39,7 +39,8 @@ Here are the list of parameters that can be used:
 
 ```html
 <div class="FOIL-font-styles color-is-yellow>
-        <div class="FOIL-font-styles text color-is-white">
+        <div class="FOIL-highlight color-is-yellow">
+                <div class="FOIL-highlight text-color-is-black>
                 <FOIL-font-size-18>Highlighted text </FOIL-font-size-18>
         </div>
 </div>
