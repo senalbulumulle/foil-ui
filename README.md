@@ -6,18 +6,18 @@
 
 # Contents
 
-<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-font-styles.md" class="button">Font Styles</a>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-font-styles.md" class="button">Font Styles</a>
 <ul></ul>
-<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-text-header.md" class="button">Text Header</a>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-text-header.md" class="button">Text Header</a>
 <ul></ul>
-<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-highlight.md" class="button">Highlight</a>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-highlight.md" class="button">Highlight</a>
 <ul></ul>
-<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-navigation-bar.md" class="button">Navigation Bar</a>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-navigation-bar.md" class="button">Navigation Bar</a>
 <ul></ul>
-<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-layout.md" class="button">Layout</a>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-layout.md" class="button">Layout</a>
 <ul></ul>
-<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-buttons.md" class="button">Button</a>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-buttons.md" class="button">Button</a>
 <ul></ul>
-<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-font-size.md" class="button">Font Sizes</a>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-font-size.md" class="button">Font Sizes</a>
 <ul></ul>
-<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/tips-and-tricks.md" class="button">Tips and Tricks</a>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/tips-and-tricks.md" class="button">Tips and Tricks</a>
