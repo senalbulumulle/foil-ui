@@ -7,6 +7,8 @@
 <p align = "center">This branch is a actively developed branch. In other words, constant changes every time.
 before merging to the main branch<b>
 
+<p align="center">That also includes the `tests`, and the `Docs`</b>
+
 # Contents
 
 <a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-font-styles.md" class="button">Font Styles</a>
