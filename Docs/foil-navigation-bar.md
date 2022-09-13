@@ -11,6 +11,11 @@ Here are the list of parameters that can be used:
 | FOIL-navigation-bar-regular-shadow       |
 
 
+| FOIL-navigation-bar-vertical              |
+| -----------------------------------------|
+| FOIL-navigation-bar-vertical-shadow       |
+
+
 
 
 | Navigation Bar Color Parameters         |
@@ -33,12 +38,29 @@ Here are the list of parameters that can be used:
 
 
 
-| Example Parameter                         |
+| Example Parameter for vertical            |
 | ----------------------------------------- |
 
 ```html
 <div class="FOIL-font-styles sans-serif">
         <div class="FOIL-navigation-bar-regular color-is-orange">
+                <div class="FOIL-text-header-1">
+                        Hello World!
+                </div>
+
+                <a href="#" class="FOIL-button-small color-is-yellow">1</a>
+                <a href="#" class="FOIL-button-small color-is-yellow">2</a>
+                <a href="#" class="FOIL-button-small color-is-yellow">3</a>
+                <a href="#" class="FOIL-button-small color-is-yellow">4</a>
+        </div>
+</div>
+```
+
+
+
+```html
+<div class="FOIL-font-styles sans-serif">
+        <div class="FOIL-navigation-bar-vertical color-is-orange">
                 <div class="FOIL-text-header-1">
                         Hello World!
                 </div>
