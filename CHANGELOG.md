@@ -4,7 +4,7 @@
 
 **In other words, it is not accurate.**
 
-##### FOIL-UI Version 3.0 Beta
+# FOIL-UI Version 3.0 Beta
 
 ###### What is in this release?
 
