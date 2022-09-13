@@ -205,7 +205,7 @@ body {
         background-color: transparent;
         margin: 0;
         width: 200px;
-        position: sticky;
+        position: fixed;
         height: 100%;
         overflow: auto;
 }
