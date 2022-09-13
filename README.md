@@ -4,6 +4,9 @@
 
 <p align = "center"> This branch contains unstable releases of FOIL-UI. If you want the stable releases of FOIL-UI, please use the main branch</b>
 
+<p align = "center">This branch is a actively developed branch. In other words, constant changes every time.
+before merging to the main branch<b>
+
 # Contents
 
 <a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-font-styles.md" class="button">Font Styles</a>
