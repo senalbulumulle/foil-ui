@@ -16,16 +16,10 @@
 
 # Features in `FOIL-navigation-bar-vertical`
 
-- [ ] `FOIL-navigation-bar-vertical-regular`
+- [ ] `FOIL-navigation-bar-vertical`
   
   - [ ] Regular Vertical Navigation Bar 
     
     - [ ] Colors is the Same as Usual. 
 
-- [ ] `FOIL-navigation-bar-vertical-rounded`
-  
-  - [ ] Rounded Vertical Navigation Bar
-    
-    - [ ] Colors is the Same as Usual
-
-- [ ] `FOIL-navigation-bar-vertical-rounded-shadow`
+- [ ] 
