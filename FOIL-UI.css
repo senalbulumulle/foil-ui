@@ -203,11 +203,11 @@ body {
 .FOIL-navigation-bar-vertical {
         padding: 16px 32px;
         background-color: transparent;
+        display: inline-block;
         margin: 0;
         width: 200px;
         position: fixed;
         height: 100%;
-        overflow: auto;
 }
 
 /*****************************************************
@@ -249,12 +249,11 @@ body {
 .FOIL-navigation-bar-vertical-shadow {
         padding: 16px 32px;
         background-color: transparent;
-        list-style-type: none;
+        display: inline-block;
         margin: 0;
         width: 200px;
-        position: sticky;
+        position: fixed;
         height: 100%;
-        overflow: auto;
         box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459),
                 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
