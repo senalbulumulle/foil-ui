@@ -479,6 +479,17 @@ body {
 }
 
 /*****************************************************
+         Layout Squish DIV Class
+*******************************************************/
+.FOIL-layout-squish-regular {
+        margin-left:25%;
+        padding:1px 16px;
+        height:1000px;
+        box-shadow: 0 1px 60px 0 rgba(0, 0, 0, 0.459),
+        0 60px 60px 0 rgba(61, 61, 61, 0.589);
+}
+
+/*****************************************************
         Regular Buttons DIV Class
 *******************************************************/
 .FOIL-button-regular {
