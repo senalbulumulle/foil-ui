@@ -6,3 +6,5 @@
 
 * `FOIL-navigation-bar-vertical`
 * `FOIL-layout-squish-regular`
+        * Layout squish is designed for Navigtion Bar vertical
+          to adapt to the layout content. 
