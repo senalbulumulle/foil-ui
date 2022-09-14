@@ -1,6 +1,11 @@
 # Ideas
 > Ideas are used for ideas as new proposed features.
 
+# TODO: 
+
+* `FOIL-navigation-bar-vertical`
+        * How to make it sticky????
+
 ## New Syntax 
 `version 3.0`
 
@@ -8,3 +13,4 @@
 * `FOIL-layout-squish-regular`
         * Layout squish is designed for Navigtion Bar vertical
           to adapt to the layout content. 
+        
