@@ -203,7 +203,6 @@ body {
 .FOIL-navigation-bar-vertical {
         padding: 16px 32px;
         background-color: transparent;
-        display: inline-block;
         margin: 0;
         width: 200px;
         position: fixed;
