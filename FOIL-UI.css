@@ -481,7 +481,9 @@ body {
          Layout Squish DIV Class
 *******************************************************/
 .FOIL-layout-squish-regular {
-        margin-left: 25%;
+        background-color: transparent;
+        top: 10%;
+        margin-left: 19%;
         padding: 1px 16px;
         height: 1000px;
         box-shadow: 0 1px 60px 0 rgba(0, 0, 0, 0.459),
