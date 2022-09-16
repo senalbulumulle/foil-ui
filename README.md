@@ -25,4 +25,5 @@ before merging to the main branch<b>
 <ul></ul>
 <a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-font-size.md" class="button">Font Sizes</a>
 <ul></ul>
+<a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/foil-scroll-off-mode.md" class="button">Scroll Off Mode"</a>
 <a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/Beta/Docs/tips-and-tricks.md" class="button">Tips and Tricks</a>
