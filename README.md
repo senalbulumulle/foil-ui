@@ -1,5 +1,4 @@
 [![FoilCI](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greet.yml/badge.svg)](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greet.yml)
-
 [![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
 
 
