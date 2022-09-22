@@ -21,5 +21,5 @@ jobs:
     - uses: actions/first-interaction@bd33205aa5c96838e10fd65df0d01efd613677c1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "${{ github.actor }} this is your first issue! :grinning::100: Please check out our [Discord](https://discord.com/invite/neSrTVgbkF)!"
+        issue-message: "${{ github.actor }}, this is your first issue! :grinning::100: Please check out our [Discord](https://discord.com/invite/neSrTVgbkF)!"
         pr-message: "${{ github.actor }}, this is your first pull request with Foil! :grinning::100: Please check out our [Discord](https://discord.com/invite/neSrTVgbkF)!"
