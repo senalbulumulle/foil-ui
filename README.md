@@ -1,5 +1,5 @@
 [![FoilCI](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greet.yml/badge.svg)](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greet.yml)
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/ senalbulumulle/FOIL-UI-Framework-Library/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/senalbulumulle/FOIL-UI-Framework-Library/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
 
 
 <h1 align = "center">FOIL-UI-Framework-Library </h1>  
