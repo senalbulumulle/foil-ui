@@ -1,8 +1,5 @@
 <h1 align = "center">FOIL-UI-Framework-Library </h1>
-[![FoilUI](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greeting.yml/badge.svg)](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/.github/workflows/Greet.yml)
-
-
-[![VitoCI](https://github.com/Vito-Research/Vito-Website/actions/workflows/Linting.yml/badge.svg)](https://github.com/Vito-Research/Vito-Website/actions/workflows/Linting.yml)
+[![FoilUI](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greeting.yml/badge.svg)](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greet.yml)
 
 <p align = "center"> FOIL UI is a CSS-based Framework Library with the most Animations, Transitions, and Luxurious User Interface Alternatives available on the Web.</b>
 
