@@ -1,3 +1,5 @@
+[![FoilUI](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greeting.yml/badge.svg)](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greet.yml)
+
 <h1 align = "center">FOIL-UI-Framework-Library </h1>  
 
 
@@ -20,6 +22,3 @@
 <a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/foil-font-size.md" class="button">Font Sizes</a>
 <ul></ul>
 <a href="https://github.com/senalbulumulle/FOIL-UI-Framework-Library/blob/master/Docs/tips-and-tricks.md" class="button">Tips and Tricks</a>
-
-
-[![FoilUI](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greeting.yml/badge.svg)](https://github.com/senalbulumulle/FOIL-UI-Framework-Library/actions/workflows/Greet.yml)
