@@ -54,9 +54,11 @@ jobs:
           fetch-depth: 0
       ###########################################
       # Run Super-Linter Slim against code base #
+      ##
+      ## If there is a new job, make it - and then create 
+      ## new one.
       ###########################################
-     
-        name: Super-Linter Slimv4
+      - name: Super-Linter Slimv4
         #calling the Super-Linter slimv4 to exclude rust,dotenv,armttk,pwsh,and c# linters
         uses: github/super-linter/slim@2d64ac1c067c34beaf7d24cc12733cd46236f76e #using the SHA value for added security, found in set up job step
         env:
