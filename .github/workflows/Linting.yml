@@ -7,9 +7,9 @@ on:
   workflow_call:
   workflow_dispatch: #allows you use run the workflow manually in github actions
   push:
-  branches: [master,Beta]
+        branches: [master,Beta]
   pull_request:
-   branches: [master,Beta]
+        branches: [master,Beta]
 ######################################
 #    Set Permissions for the token   #
 ######################################
