@@ -4,4 +4,4 @@
 
 #### Introduction
 
-> Experimenting with CSS (CSS Aural). 
+> Experimenting 
