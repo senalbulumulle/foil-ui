@@ -1,0 +1,1 @@
+## linter-auto-mode-off.sh
