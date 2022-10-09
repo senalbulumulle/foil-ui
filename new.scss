@@ -11,7 +11,9 @@
 
  $bodyFonts: Helvetica, Arial, sans-serif;
  $bodySize: 10px;
- $scrollMode: fixed;
+
+
+ $FOIL-scroll-mode: fixed;
  
  
  body {
@@ -20,7 +22,7 @@
  }
  
  .FOIL-scroll-off-mode {
-         position: $scrollMode;
+         position: $FOIL-scroll-mode;
  }
  
  
