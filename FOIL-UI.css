@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*****************************************************
         FOÏL UI.css
-        Version 2.0.5
+        Version 3.0 Sassy Edition
 *******************************************************/
 /*****************************************************
         Body Class
@@ -15,15 +15,18 @@ body {
   display: inline-flexbox;
 }
 
-.FOIL-font-styles.Impact {
+/*****************************************************
+        Font-Styles DIV Class
+*******************************************************/
+.FOIL-font-styles.impact {
   font-family: Impact;
 }
 
-.FOIL-font-styles.Georgia {
+.FOIL-font-styles.georgia {
   font-family: Georgia;
 }
 
-.FOIL-font-styles.Verdana {
+.FOIL-font-styles.verdana {
   font-family: Verdana;
 }
 
@@ -39,7 +42,7 @@ body {
   font-family: monospace;
 }
 
-/*****************************************************                             TO: Refactor
+/*****************************************************
         Text-Header DIV Class
 *******************************************************/
 .FOIL-text-header-1 {
@@ -116,9 +119,14 @@ body {
   top: 0;
 }
 
-/*****************************************************                            TO: Refactor
+/*****************************************************                            
         Navigation-Bar REGULAR Color Substitutes
 *******************************************************/
+.FOIL-navigation-bar-regular.color-is-yellow {
+  background-color: rgba(255, 217, 0, 0.931);
+  color: black;
+}
+
 .FOIL-navigation-bar-regular.color-is-red {
   background-color: rgba(185, 0, 0, 0.931);
   color: white;
@@ -127,11 +135,6 @@ body {
 .FOIL-navigation-bar-regular.color-is-black {
   background-color: rgba(0, 0, 0, 0.931);
   color: white;
-}
-
-.FOIL-navigation-bar-regular.color-is-yellow {
-  background-color: rgba(255, 217, 0, 0.931);
-  color: black;
 }
 
 .FOIL-navigation-bar-regular.color-is-green {
@@ -160,9 +163,14 @@ body {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 
-/*****************************************************                                 TO: Refactor
+/*****************************************************                                 
         Navigation-Bar REGULAR WITH SHADOW Color Substitutes
 *******************************************************/
+.FOIL-navigation-bar-regular-shadow.color-is-yellow {
+  background-color: rgba(255, 217, 0, 0.931);
+  color: black;
+}
+
 .FOIL-navigation-bar-regular-shadow.color-is-red {
   background-color: rgba(185, 0, 0, 0.931);
   color: white;
@@ -171,11 +179,6 @@ body {
 .FOIL-navigation-bar-regular-shadow.color-is-black {
   background-color: rgba(0, 0, 0, 0.931);
   color: white;
-}
-
-.FOIL-navigation-bar-regular-shadow.color-is-yellow {
-  background-color: rgba(255, 217, 0, 0.931);
-  color: black;
 }
 
 .FOIL-navigation-bar-regular-shadow.color-is-green {
@@ -205,9 +208,14 @@ body {
   box-shadow: 0 1px 60px 0 rgba(0, 0, 0, 0.459), 0 60px 60px 0 rgba(61, 61, 61, 0.589);
 }
 
-/*****************************************************                                      TO: Refactor
+/*****************************************************                                      
          Layout Color Substitutes
 *******************************************************/
+.FOIL-layout-regular.color-is-yellow {
+  background-color: rgba(255, 217, 0, 0.931);
+  color: black;
+}
+
 .FOIL-layout-regular.color-is-red {
   background-color: rgba(185, 0, 0, 0.931);
   color: white;
@@ -216,11 +224,6 @@ body {
 .FOIL-layout-regular.color-is-black {
   background-color: rgba(0, 0, 0, 0.931);
   color: white;
-}
-
-.FOIL-layout-regular.color-is-yellow {
-  background-color: rgba(255, 217, 0, 0.931);
-  color: black;
 }
 
 .FOIL-layout-regular.color-is-green {
@@ -249,9 +252,14 @@ body {
   z-index: 2;
 }
 
-/*****************************************************                             TO: Refactor
+/*****************************************************                            
          Layout NO SHADOWS Color Substitutes
 *******************************************************/
+.FOIL-layout-regular-no-shadow.color-is-yellow {
+  background-color: rgba(255, 217, 0, 0.931);
+  color: black;
+}
+
 .FOIL-layout-regular-no-shadow.color-is-red {
   background-color: rgba(185, 0, 0, 0.931);
   color: white;
@@ -260,11 +268,6 @@ body {
 .FOIL-layout-regular-no-shadow.color-is-black {
   background-color: rgba(0, 0, 0, 0.931);
   color: white;
-}
-
-.FOIL-layout-regular-no-shadow.color-is-yellow {
-  background-color: rgba(255, 217, 0, 0.931);
-  color: black;
 }
 
 .FOIL-layout-regular-no-shadow.color-is-green {
@@ -296,9 +299,14 @@ body {
   margin-bottom: 3rem;
 }
 
-/*****************************************************                                     TO: Refactor
+/*****************************************************                                    
          Layout Rounded Color Substitutes
 *******************************************************/
+.FOIL-layout-rounded.color-is-yellow {
+  background-color: rgba(255, 217, 0, 0.931);
+  color: black;
+}
+
 .FOIL-layout-rounded.color-is-red {
   background-color: rgba(185, 0, 0, 0.931);
   color: white;
@@ -307,11 +315,6 @@ body {
 .FOIL-layout-rounded.color-is-black {
   background-color: rgba(0, 0, 0, 0.931);
   color: white;
-}
-
-.FOIL-layout-rounded.color-is-yellow {
-  background-color: rgba(255, 217, 0, 0.931);
-  color: black;
 }
 
 .FOIL-layout-rounded.color-is-green {
@@ -343,9 +346,14 @@ body {
   margin-bottom: 3rem;
 }
 
-/*****************************************************                                  TO: Refactor
+/*****************************************************                              
          Layout Rounded Color Substitutes
 *******************************************************/
+.FOIL-layout-rounded-no-shadow.color-is-yellow {
+  background-color: rgba(255, 217, 0, 0.931);
+  color: black;
+}
+
 .FOIL-layout-rounded-no-shadow.color-is-red {
   background-color: rgba(185, 0, 0, 0.931);
   color: white;
@@ -354,11 +362,6 @@ body {
 .FOIL-layout-rounded-no-shadow.color-is-black {
   background-color: rgba(0, 0, 0, 0.931);
   color: white;
-}
-
-.FOIL-layout-rounded-no-shadow.color-is-yellow {
-  background-color: rgba(255, 217, 0, 0.931);
-  color: black;
 }
 
 .FOIL-layout-rounded-no-shadow.color-is-green {
@@ -394,7 +397,7 @@ body {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 
-/*****************************************************                          TO: Refactor
+/*****************************************************                          TO: Refactor Senal
          Regular Buttons Color Substitutes
 *******************************************************/
 .FOIL-button-regular.color-is-red {
@@ -469,7 +472,7 @@ body {
   transition-duration: 0.2s;
 }
 
-/*****************************************************                         TO: Refactor
+/*****************************************************                         TO: Refactor Senal
          Regular Buttons Color Substitutes
 *******************************************************/
 .FOIL-button-regular-no-shadow.color-is-red {
@@ -545,7 +548,7 @@ body {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 
-/*****************************************************                           TO: Refactor
+/*****************************************************                           TO: Refactor Senal
          Regular Buttons NO FEEDBACK Color Substitutes
 *******************************************************/
 .FOIL-button-regular-no-feedback.color-is-red {
@@ -605,7 +608,7 @@ body {
   transition-duration: 0.2s;
 }
 
-/********************************************************************                         TO: Refactor
+/********************************************************************                         TO: Refactor Senal
          Regular Buttons NO FEEDBACK NO SHADOWS Color Substitutes
 *********************************************************************/
 .FOIL-button-regular-no-feedback-no-shadow.color-is-red {
@@ -666,7 +669,7 @@ body {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 
-/*****************************************************                               TO: Refactor
+/*****************************************************                               TO: Refactor Senal
          Small Buttons Color Substitutes
 *******************************************************/
 .FOIL-button-small.color-is-red {
@@ -741,7 +744,7 @@ body {
   transition-duration: 0.2s;
 }
 
-/*****************************************************              TO: Refactor
+/*****************************************************              TO: Refactor Senal
          Small Buttons Color Substitutes
 *******************************************************/
 .FOIL-button-small-no-shadow.color-is-red {
@@ -817,7 +820,7 @@ body {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 
-/*****************************************************       TO: Refactor
+/*****************************************************       TO: Refactor Senal
          Small Buttons NO FEEDBACK Color Substitutes
 *******************************************************/
 .FOIL-button-small-no-feedback.color-is-red {
@@ -877,7 +880,7 @@ body {
   transition-duration: 0.2s;
 }
 
-/********************************************************************   TO: Refactor
+/********************************************************************   TO: Refactor Senal
          Small Buttons NO FEEDBACK NO SHADOWS Color Substitutes
 *********************************************************************/
 .FOIL-button-small-no-feedback-no-shadow.color-is-red {
