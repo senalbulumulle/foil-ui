@@ -265,6 +265,15 @@ $layout-rounded-no-shad-colors: ("red" : "rgba(185, 0, 0, 0.931)", "black" : "rg
 /*****************************************************                          TO: Refactor Senal
          Regular Buttons Color Substitutes
 *******************************************************/
+$button-regular-colors: ("red" : "rgba(185, 0, 0, 0.931);", "black" : "rgba(0, 0, 0, 0.931)", "yellow" :  "rgba(255, 217, 0, 0.931);", "green" :  "rgb(67, 91, 68);", "blue" :  "rgb(67, 69, 91);", "orange" :  "rgb(167, 72, 14)", "pink" :  "rgba(185, 0, 114, 0.931)", "purple" :  "rgba(126, 0, 185, 0.931)" );
+
+@each $key, $value in $button-regular-colors {
+        .FOIL-button-regular.color-is-#{$key} {
+                background-color: #{$value};
+                color: white;
+        }
+}
+
 .FOIL-button-regular.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
@@ -341,6 +350,29 @@ $layout-rounded-no-shad-colors: ("red" : "rgba(185, 0, 0, 0.931)", "black" : "rg
 /*****************************************************                         TO: Refactor Senal
          Regular Buttons Color Substitutes
 *******************************************************/
+/** 
+ *      REFACTORING TEMPLATE
+ *
+ */
+// $: ("red" : "rgba(185, 0, 0, 0.931);", "black" : "rgba(0, 0, 0, 0.931)", "yellow" :  "rgba(255, 217, 0, 0.931);", "green" :  "rgb(67, 91, 68);", "blue" :  "rgb(67, 69, 91);", "orange" :  "rgb(167, 72, 14)", "pink" :  "rgba(185, 0, 114, 0.931)", "purple" :  "rgba(126, 0, 185, 0.931)" );
+
+// @each $key, $value in $ {
+//         .#{$key} {
+//                 background-color: #{$value};
+//                 color: white;
+//         }
+// }
+
+
+$button-regular-no-shadow-colors: ("red" : "rgba(185, 0, 0, 0.931);", "black" : "rgba(0, 0, 0, 0.931)", "yellow" :  "rgba(255, 217, 0, 0.931);", "green" :  "rgb(67, 91, 68);", "blue" :  "rgb(67, 69, 91);", "orange" :  "rgb(167, 72, 14)", "pink" :  "rgba(185, 0, 114, 0.931)", "purple" :  "rgba(126, 0, 185, 0.931)" );
+
+@each $key, $value in $button-regular-no-shadow-colors {
+        .#{$key} {
+                background-color: #{$value};
+                color: white;
+        }
+}
+
 
 .FOIL-button-regular-no-shadow.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
@@ -420,6 +452,16 @@ $layout-rounded-no-shad-colors: ("red" : "rgba(185, 0, 0, 0.931)", "black" : "rg
 /*****************************************************                           TO: Refactor Senal
          Regular Buttons NO FEEDBACK Color Substitutes
 *******************************************************/
+
+$button-regular-no-feedback-colors: ("red" : "rgba(185, 0, 0, 0.931);", "black" : "rgba(0, 0, 0, 0.931)", "yellow" :  "rgba(255, 217, 0, 0.931);", "green" :  "rgb(67, 91, 68);", "blue" :  "rgb(67, 69, 91);", "orange" :  "rgb(167, 72, 14)", "pink" :  "rgba(185, 0, 114, 0.931)", "purple" :  "rgba(126, 0, 185, 0.931)" );
+
+@each $key, $value in $button-regular-no-feedback-colors {
+        .FOIL-button-regular-no-feedback.color-is-#{$key} {
+                background-color: #{$value};
+                color: white;
+        }
+}
+
 .FOIL-button-regular-no-feedback.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
@@ -480,6 +522,17 @@ $layout-rounded-no-shad-colors: ("red" : "rgba(185, 0, 0, 0.931)", "black" : "rg
 /********************************************************************                         TO: Refactor Senal
          Regular Buttons NO FEEDBACK NO SHADOWS Color Substitutes
 *********************************************************************/
+$button-regular-no-feedback-no-shadow-colors: ("red" : "rgba(185, 0, 0, 0.931);", "black" : "rgba(0, 0, 0, 0.931)", "yellow" :  "rgba(255, 217, 0, 0.931);", "green" :  "rgb(67, 91, 68);", "blue" :  "rgb(67, 69, 91);", "orange" :  "rgb(167, 72, 14)", "pink" :  "rgba(185, 0, 114, 0.931)", "purple" :  "rgba(126, 0, 185, 0.931)" );
+
+@each $key, $value in $button-regular-no-feedback-no-shadow-colors {
+        .FOIL-button-regular-no-feedback-no-shadows.color-is-#{$key} {
+                background-color: #{$value};
+                color: white;
+        }
+}
+
+
+
 .FOIL-button-regular-no-feedback-no-shadow.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
@@ -542,6 +595,17 @@ $layout-rounded-no-shad-colors: ("red" : "rgba(185, 0, 0, 0.931)", "black" : "rg
 /*****************************************************                               TO: Refactor Senal
          Small Buttons Color Substitutes
 *******************************************************/
+
+$button-small-colors: ("red" : "rgba(185, 0, 0, 0.931);", "black" : "rgba(0, 0, 0, 0.931)", "yellow" :  "rgba(255, 217, 0, 0.931);", "green" :  "rgb(67, 91, 68);", "blue" :  "rgb(67, 69, 91);", "orange" :  "rgb(167, 72, 14)", "pink" :  "rgba(185, 0, 114, 0.931)", "purple" :  "rgba(126, 0, 185, 0.931)" );
+
+@each $key, $value in $button-small-colors {
+        .FOIL-button-regular.color-is-#{$key} {
+                background-color: #{$value};
+                color: white;
+        }
+}
+
+
 .FOIL-button-small.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
@@ -618,6 +682,16 @@ $layout-rounded-no-shad-colors: ("red" : "rgba(185, 0, 0, 0.931)", "black" : "rg
 /*****************************************************              TO: Refactor Senal
          Small Buttons Color Substitutes
 *******************************************************/
+
+$button-small-no-shadow-colors: ("red" : "rgba(185, 0, 0, 0.931);", "black" : "rgba(0, 0, 0, 0.931)", "yellow" :  "rgba(255, 217, 0, 0.931);", "green" :  "rgb(67, 91, 68);", "blue" :  "rgb(67, 69, 91);", "orange" :  "rgb(167, 72, 14)", "pink" :  "rgba(185, 0, 114, 0.931)", "purple" :  "rgba(126, 0, 185, 0.931)" );
+
+@each $key, $value in $button-small-no-shadow-colors {
+        .FOIL-button-small-no-shadow.color-is-#{$key} {
+                background-color: #{$value};
+                color: white;
+        }
+}
+
 
 .FOIL-button-small-no-shadow.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
@@ -697,6 +771,17 @@ $layout-rounded-no-shad-colors: ("red" : "rgba(185, 0, 0, 0.931)", "black" : "rg
 /*****************************************************       TO: Refactor Senal
          Small Buttons NO FEEDBACK Color Substitutes
 *******************************************************/
+$button-small-no-shadow-no-feedback-colors: ("red" : "rgba(185, 0, 0, 0.931);", "black" : "rgba(0, 0, 0, 0.931)", "yellow" :  "rgba(255, 217, 0, 0.931);", "green" :  "rgb(67, 91, 68);", "blue" :  "rgb(67, 69, 91);", "orange" :  "rgb(167, 72, 14)", "pink" :  "rgba(185, 0, 114, 0.931)", "purple" :  "rgba(126, 0, 185, 0.931)" );
+
+@each $key, $value in $button-small-no-shadow-no-feedback-colors {
+        .FOIL-button-small-no-shadow-no-feedback.color-is-#{$key} {
+                background-color: #{$value};
+                color: white;
+        }
+}
+
+
+
 .FOIL-button-small-no-feedback.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
@@ -757,6 +842,17 @@ $layout-rounded-no-shad-colors: ("red" : "rgba(185, 0, 0, 0.931)", "black" : "rg
 /********************************************************************   TO: Refactor Senal
          Small Buttons NO FEEDBACK NO SHADOWS Color Substitutes
 *********************************************************************/
+$button-small-no-feedback-no-shadow-colors: ("red" : "rgba(185, 0, 0, 0.931);", "black" : "rgba(0, 0, 0, 0.931)", "yellow" :  "rgba(255, 217, 0, 0.931);", "green" :  "rgb(67, 91, 68);", "blue" :  "rgb(67, 69, 91);", "orange" :  "rgb(167, 72, 14)", "pink" :  "rgba(185, 0, 114, 0.931)", "purple" :  "rgba(126, 0, 185, 0.931)" );
+
+@each $key, $value in $button-small-no-feedback-no-shadow-colors {
+        .FOIL-button-small-no-shadow-no-feedback.color-is-#{$key} {
+                background-color: #{$value};
+                color: white;
+        }
+}
+
+
+
 .FOIL-button-small-no-feedback-no-shadow.color-is-red {
         background-color: rgba(185, 0, 0, 0.931);
         color: white;
