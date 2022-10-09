@@ -23,37 +23,14 @@ $styles: Impact, Georgia, Verdana, times, sans-serif, monospace;
                 font-family: $style;
         }
 } 
-/*****************************************************                             TO: Refactor
-        Text-Header DIV Class
-*******************************************************/
-.FOIL-text-header-1 {
-        font-size: 2em;
-        font-weight: bolder;
-}
 
-.FOIL-text-header-2 {
-        font-size: 1.5em;
-        font-weight: bolder;
-}
+$headers: ("1" : "2em", "2" : "1.5em", "3" : "1.17em", "4" : "1em", "5" : "0.83em","6" : "0.67em");
 
-.FOIL-text-header-3 {
-        font-size: 1.17em;
-        font-weight: bolder;
-}
-
-.FOIL-text-header-4 {
-        font-size: 1em;
-        font-weight: bolder;
-}
-
-.FOIL-text-header-5 {
-        font-size: 0.83em;
-        font-weight: bolder;
-}
-
-.FOIL-text-header-6 {
-        font-size: 0.67em;
-        font-weight: bolder;
+@each $key, $value in $headers {
+        .FOIL-text-header-#{$key} {
+                font-size: #{$value};
+                font-weight: bolder;
+        }
 }
 
 /*****************************************************
