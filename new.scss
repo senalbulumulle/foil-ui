@@ -1,0 +1,27 @@
+/*****************************************************
+        FOÏL UI.css 
+        Version 3.0 Beta
+*******************************************************/
+
+/** 
+ *      Variables 
+ *
+ *
+ */
+
+ $bodyFonts: Helvetica, Arial, sans-serif;
+ $bodySize: 10px;
+ $scrollMode: fixed;
+ 
+ 
+ body {
+         font: 100% $bodyFonts;
+         height: $bodySize;
+ }
+ 
+ .FOIL-scroll-off-mode {
+         position: $scrollMode;
+ }
+ 
+ 
+ 
