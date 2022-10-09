@@ -57,14 +57,12 @@ $colors: ("red" : "red", "yellow" : "yellow", "green" : "rgb(156, 223, 57)");
 /*****************************************************
          Highlight Text Color Substitutes
 *******************************************************/
-.FOIL-highlight.text-color-is-white {
-        color: white;
+$highlight-colors: ("white" : "white", "black" : "black");
+@each $key, $value in $highlight-colors {
+        .FOIL-highlight.text-color-is-#{$key} {
+               color: #{$value};
+        }
 }
-
-.FOIL-highlight.text-color-is-black {
-        color: black;
-}
-
 /*****************************************************
         Navigation-Bar REGULAR
 *******************************************************/
