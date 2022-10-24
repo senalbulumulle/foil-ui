@@ -1,17 +1,15 @@
-/* Error: expected more input.
- *   ,
- * 5 | *******************************************************
- *   |                                                        ^
- *   '
- *   FOIL-UI.scss 5:56  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: expected more input.\a   \2577 \a 5 \2502  *******************************************************\a   \2502                                                         ^\a   \2575 \a   FOIL-UI.scss 5:56  root stylesheet";
+@charset "UTF-8";
+/*****************************************************
+        FOÏL UI.css
+        Version 3.0 Sassy Edition
+*******************************************************/
+body {
+  height: 100vh;
+  margin: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  perspective: 1px;
+  display: inline-flexbox;
 }
+
+/*# sourceMappingURL=FOIL-UI.css.map */
