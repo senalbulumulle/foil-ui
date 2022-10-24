@@ -3,3 +3,12 @@
         FOÏL UI.css
         Version 3.0 Sassy Edition
 *******************************************************/
+
+body {
+  height: 100vh;
+  margin: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  perspective: 1px;
+  display: inline-flexbox;
+}
