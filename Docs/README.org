@@ -1,0 +1,7 @@
+* Welcome to Docs 
+** Description
+This is where you can find tutorials, references for the FOIL-UI-Framework-Library.
+These documentations are re-designed for FOIL-UI versions that uses SASS (eg. 3.0 or later).
+
+** NOTE:
+These documentations are currently in beta/alpha stage, so changes to the documentation may occur rapidly.
