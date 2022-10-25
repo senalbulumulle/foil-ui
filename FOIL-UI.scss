@@ -4,13 +4,10 @@
         Version 3.0 Sassy Edition
 *******************************************************/
 
-
-body {
-  	height: 100vh;
-  	margin: 0;
- 	overflow-y: auto;
-  	overflow-x: hidden;
-  	perspective: 1px;
- 	display: inline-flexbox;
-}
-
+@import "body";
+@import "font-styles";
+@import "text-header";
+@import "highlight";
+@import "navigation-bar";
+@import "layout-regular";
+@import "layout-rounded";
