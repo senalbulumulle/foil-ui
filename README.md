@@ -35,3 +35,17 @@
 ## Ideas? 
 
 * Flexbox features to elements???
+
+
+## New Features? 
+This section is subjected to rapid changes. This is based on new ideas. 
+
+## New Syntaxes? 
+```shell
+FOIL-card-box
+```
+
+## Font-Weight with Text? 
+``` css
+.FOIL-font-weight
+```
