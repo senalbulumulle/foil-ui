@@ -1,4 +1,6 @@
-name: "pre-release"
+name: "Auto-Release"
+# Documentation found here:
+# https://github.com/marketplace/actions/automatic-releases
 
 on:
   push:
@@ -6,8 +8,8 @@ on:
       - "master"
 
 jobs:
-  pre-release:
-    name: "Pre Release"
+  Auto-Release:
+    name: "Auto-Release"
     runs-on: "ubuntu-latest"
 
     steps:
@@ -20,8 +22,8 @@ jobs:
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
-          prerelease: true
-          title: "Development Build"
+          prerelease: false
+          title: "v.2.0"
           files: |
             LICENSE.txt
             *.jar
