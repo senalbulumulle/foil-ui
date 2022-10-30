@@ -49,3 +49,17 @@ FOIL-card-box
 ``` css
 .FOIL-font-weight
 ```
+
+
+## List of scss files that are used in FOIL-UI: 
+
+```shell
+body.scss
+button-regular.scss
+button-small.scss
+font-styles.scss
+highlight.scss
+layout-regular.scss
+layout-rounded.scss
+navigation-bar-regular.scss
+```
