@@ -2,16 +2,32 @@
 
 
 ** Introduction:
-Later...
+FOIL-UI-Framework-Library, is a library
+focusing on solving many things
 
+- Accessibility
+
+- Creativity
+
+- Raw CSS
+
+
+Now, since FOIL-UI-Framework-Library is
+growing, we are now going to be using
+SASS to make the organization much
+easier instead of editing the FOIL-UI.css
+in raw form.
 
 ** Purpose:
-
+- Accessibility
+- Provide Developers Creativity and Imagination
+- Minimal and sleek UI Design.
 
 ** Goal:
 
 
 ** Requirements:
-
+- sassc compiler
 
 ** Installation of Requirements:
+- Later on...
