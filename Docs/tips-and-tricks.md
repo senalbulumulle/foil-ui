@@ -18,7 +18,7 @@ source code, you can do this. Just follow the steps here.
 
 > ```css
 > /* Using FOIL-UI using the CDN */
-> @import url 'https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css';
+> @import url('https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css');
 > ```
 
 * **If you using the online version of FOIL-UI, all you need to do is to create a php or html file, and include this.**
