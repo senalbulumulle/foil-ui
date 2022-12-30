@@ -1,0 +1,13 @@
+#+title: CHANGELOG
+
+
+* 2022.12.30:
+
+- Added SCSS files:
+
+                    - buttons.scss
+                    - font-sizes.scss
+                    - font-styles.scss
+                    - global.scss
+                    - layout.scss
+                    - navigation-bar.scss
