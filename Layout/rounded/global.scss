@@ -1,0 +1,12 @@
+.FOIL-layout-rounded 
+{
+        background-color: transparent;
+        color: black;
+        padding: 10em 1em;
+        border-radius: 10px;
+        position: relative;
+        z-index: 2;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459),
+                0 20px 20px 0 rgba(61, 61, 61, 0.589);
+        margin-bottom: 3rem;
+}
