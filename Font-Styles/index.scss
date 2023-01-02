@@ -1,0 +1,6 @@
+$styles: (impact : Impact, georgia : Georgia, verdana : Verdana, times : times, sans-serif : sans-serif, monospace : monospace);
+@each $key, $value in $styles {
+        .FOIL-font-styles.#{$key} {
+                font-family: $value;
+        }
+}
