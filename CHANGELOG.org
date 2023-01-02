@@ -25,3 +25,8 @@
                     - global.scss
                     - layout.scss
                     - navigation-bar.scss
+
+
+
+* 2023.1.2:
+- Include separate scss components in one [FOIL-UI.scss] file...
