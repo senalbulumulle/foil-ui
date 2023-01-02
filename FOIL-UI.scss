@@ -1,5 +1,62 @@
 @charset "UTF-8";
 /*****************************************************
-        FOÏL UI.css
-        Version 3.0 Sassy Edition
+███████  ██████  ██ ██          ██    ██ ██         ██████          ██████                                                                         
+██      ██    ██ ██ ██          ██    ██ ██              ██        ██  ████                                                                        
+█████   ██    ██ ██ ██          ██    ██ ██          █████         ██ ██ ██                                                                        
+██      ██    ██ ██ ██          ██    ██ ██              ██        ████  ██                                                                        
+██       ██████  ██ ███████      ██████  ██         ██████  ██      ██████                                                                         
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+███████      █████      ███████     ███████     ██    ██                 ███████     ██████      ██     ████████     ██      ██████      ███    ██ 
+██          ██   ██     ██          ██           ██  ██                  ██          ██   ██     ██        ██        ██     ██    ██     ████   ██ 
+███████     ███████     ███████     ███████       ████                   █████       ██   ██     ██        ██        ██     ██    ██     ██ ██  ██ 
+     ██     ██   ██          ██          ██        ██                    ██          ██   ██     ██        ██        ██     ██    ██     ██  ██ ██ 
+███████     ██   ██     ███████     ███████        ██                    ███████     ██████      ██        ██        ██      ██████      ██   ████ 
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
 *******************************************************/
+
+@import "Global/global";
+@import "Font-Styles/index.scss";
+
+@import "Buttons/regular/global";
+@import "Buttons/regular/colors"; 
+@import "Buttons/regular-no-feedback/global";
+@import "Buttons/regular-no-shadow/global";
+@import "Buttons/regular-no-shadow/colors";
+@import "Buttons/regular-no-shadow-no-feedback/global";
+@import "Buttons/regular-no-shadow-no-feedback/colors";
+@import "Buttons/small/global";
+@import "Buttons/small/colors";
+@import "Buttons/small-no-feedback/global";
+@import "Buttons/small-no-feedback/colors";
+@import "Buttons/small-no-shadow/global";
+@import "Buttons/small-no-shadow/colors";
+@import "Buttons/small-no-shadow-no-feedback/global";
+@import "Buttons/small-no-shadow-no-feedback/colors";
+
+
+
+
+
+@import "Layout/regular-no-shadow/global";
+@import "Layout/regular-no-shadow/colors";
+@import "Layout/rounded/global";
+@import "Layout/rounded/colors";
+
+
+@import "Navigation-Bar/regular/global";
+@import "Navigation-Bar/regular/colors";
+@import "Navigation-Bar/regular-shadow/global";
+@import "Navigation-Bar/regular-shadow/colors"
