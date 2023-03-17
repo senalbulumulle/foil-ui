@@ -160,41 +160,7 @@ body {
         background-color: transparent;
         position: sticky;
         top: 0;
-        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459),
-                0 20px 20px 0 rgba(61, 61, 61, 0.589);
-}
-
-/*****************************************************
-        Navigation-Bar REGULAR WITH SHADOW Color Substitutes
-*******************************************************/
-.FOIL-navigation-bar-regular-shadow.color-is-red {
-        background-color: rgba(185, 0, 0, 0.931);
-        color: white;
-}
-
-.FOIL-navigation-bar-regular-shadow.color-is-black {
-        background-color: rgba(0, 0, 0, 0.931);
-        color: white;
-}
-
-.FOIL-navigation-bar-regular-shadow.color-is-yellow {
-        background-color: rgba(255, 217, 0, 0.931);
-        color: black;
-}
-
-.FOIL-navigation-bar-regular-shadow.color-is-green {
-        background-color: rgb(67, 91, 68);
-        color: white;
-}
-
-.FOIL-navigation-bar-regular-shadow.color-is-blue {
-        background-color: rgb(67, 69, 91);
-        color: white;
-}
-
-.FOIL-navigation-bar-regular-shadow.color-is-orange {
-        background-color: rgb(167, 72, 14);
-        color: white;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.459), 0 20px 20px 0 rgba(61, 61, 61, 0.589);
 }
 
 /*****************************************************

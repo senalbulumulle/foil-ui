@@ -5,7 +5,7 @@
 In this update:
 
 - Removed all button parameters 
-
+- Removed all navigation bar parameters
 
 **Release Notes for v.2.0.5**
 
