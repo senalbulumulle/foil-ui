@@ -7,6 +7,7 @@ In this update:
 - Removed all button parameters 
 - Removed all navigation bar parameters
 - Removed the [tests] folder
+- Preparing to redesign the config.css sample file...
 
 **Release Notes for v.2.0.5**
 
