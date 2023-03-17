@@ -1,4 +1,12 @@
 # Change Log
+
+** Release Notes for v.2.0.6**
+
+In this update:
+
+- Removed all button parameters 
+
+
 **Release Notes for v.2.0.5**
 
 In this update: 
