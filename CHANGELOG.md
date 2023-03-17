@@ -6,6 +6,7 @@ In this update:
 
 - Removed all button parameters 
 - Removed all navigation bar parameters
+- Removed the [tests] folder
 
 **Release Notes for v.2.0.5**
 
