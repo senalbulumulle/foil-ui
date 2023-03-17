@@ -2,6 +2,12 @@
  *      config.css
  *
  ************************************************************************/
-@import url('../../FOIL-UI.css');
+@import url('./FOIL-UI.css');
 
+.FOIL-navigation-bar-regular {
+        background-color: orange;
+}
 
+.FOIL-layout-regular {
+        background-color: orange;
+}
