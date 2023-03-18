@@ -12,6 +12,7 @@ In this update:
 - Completed some of the sample config.css file...
 - Updated Docs
 - Removed Highlight Component
+- Removed `FOIL-text-header`
 
 **Release Notes for v.2.0.5**
 
