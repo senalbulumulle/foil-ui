@@ -26,7 +26,7 @@ font styles for your web application. Here is how you do it.
 
 This is an example
 
-#+BEGIN_SRC css
+#+BEGIN_SRC html
 <div class="FOIL-font-styles impact"></div>
 <div class="FOIL-font-styles georgia"></div>
 <div class="FOIL-font-styles verdana"></div>

@@ -14,6 +14,7 @@ In this update:
 - Removed Highlight Component
 - Removed `FOIL-text-header`
 - Added `README.org`
+- Updated `README.org`
 
 **Release Notes for v.2.0.5**
 
