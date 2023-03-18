@@ -11,6 +11,7 @@ In this update:
 - Removed the shadows from elements and removed all parameters again...
 - Completed some of the sample config.css file...
 - Updated Docs
+- Removed Highlight Component
 
 **Release Notes for v.2.0.5**
 
