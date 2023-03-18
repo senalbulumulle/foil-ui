@@ -37,3 +37,17 @@ This is an example
 
 
 
+* Navigation Bar 
+
+Navigation Bar is a sticky element that does on the top of your
+web application allows you to add buttons, text and other elements. 
+
+
+Here is how you do it. 
+
+
+This is an example
+
+#+BEGIN_SRC html 
+<div class="FOIL-navigation-bar-regular"></div>
+#+END_SRC
