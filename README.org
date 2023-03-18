@@ -22,7 +22,10 @@ Content later...
 * Font Styles Component. 
 
 Font Styles allows the ability to explore and use different
-font styles for your web application. Here is how you do it. 
+font styles for your web application.
+
+
+*** Here is how you do it.
 
 This is an example
 
@@ -43,11 +46,30 @@ Navigation Bar is a sticky element that does on the top of your
 web application allows you to add buttons, text and other elements. 
 
 
-Here is how you do it. 
+*** Here is how you do it. 
 
 
 This is an example
 
 #+BEGIN_SRC html 
 <div class="FOIL-navigation-bar-regular"></div>
+#+END_SRC
+
+
+* Buttons
+
+Buttons are elements that allows the ability to press buttons on 
+your web application. 
+
+*** Here is how you do it
+
+**** When creating a button
+#+BEGIN_SRC html
+<button class="FOIL-button">Button</button>
+#+END_SRC
+
+
+**** When creating a link
+#+BEGIN_SRC html
+<a href="#" class="FOIL-button-regular">Button</a>
 #+END_SRC

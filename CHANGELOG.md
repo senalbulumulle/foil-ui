@@ -16,6 +16,7 @@ In this update:
 - Added `README.org`
 - Updated `README.org`
 - Updated `README.org`
+- Updated `README.org`
 
 **Release Notes for v.2.0.5**
 
